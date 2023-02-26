@@ -1,0 +1,40 @@
+baseURL: 'http://example.org/'
+languageCode: it-it
+title: Saviors Social Rugby
+theme: PaperMod
+params:
+  env: production
+  defaultTheme: dark
+  disableThemeToggle: true
+  profileMode:
+    enabled: true
+    title: Saviors Social Rugby
+    imageUrl: >-
+      https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/313948483_543001527835620_3412004716713105055_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=c6L9pfe-ziAAX8dRMpF&tn=iFCaF3dOD77a4A15&_nc_ht=scontent-mxp2-1.xx&oh=00_AfDCV6raVWwCoX4HaH6ygBfltCeTvbwF99xykcRS7g5rzQ&oe=63FF5E73
+    imageTitle: LogoImg
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Archive
+        url: /archive
+      - name: Github
+        url: 'https://github.com/'
+  socialIcons:
+    - name: Instagram
+      url: 'https://www.instagram.com/saviors_social_rugby/'
+    - name: Facebook
+      url: 'https://www.facebook.com/saviorssocialrugby'
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: example.org
+      url: 'https://example.org'
+      weight: 30

@@ -31,19 +31,23 @@ params:
       url: 'mailto:info@saviorssocialrugby.it'
 menu:
   main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
     - identifier: contatti
       name: Contatti
       url: /contatti/
-      weight: 1
+      weight: 2
     - identifier: calendario
       name: Calendario
       url: /calendario/
-      weight: 2
+      weight: 3
     - identifier: under
       name: Under
       url: /under/
-      weight: 3
+      weight: 4
     - identifier: archivio
       name: Archivio
       url: /archivio
-      weith: 4
+      weith: 5

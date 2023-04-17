@@ -2,17 +2,21 @@ baseURL: 'https://notdodo.github.io/saviors/'
 languageCode: it-it
 title: Saviors Social Rugby
 theme: PaperMod
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+  - term
 params:
   env: production
-  defaultTheme: dark
+  defaultTheme: white
   disableThemeToggle: true
   profileMode:
     enabled: true
     title: Saviors Social Rugby
     imageUrl: '/images/logo.png'
     imageTitle: SaviorsLogo
-    imageWidth: 130
-    imageHeight: 190
+    imageWidth: 140
+    imageHeight: 200
     # buttons:
     #   - name: Archive
     #     url: /archive
@@ -23,16 +27,23 @@ params:
       url: 'https://www.instagram.com/saviors_social_rugby/'
     - name: Facebook
       url: 'https://www.facebook.com/saviorssocialrugby'
+    - name: email
+      url: 'mailto:info@saviorssocialrugby.it'
 menu:
   main:
+    - identifier: contatti
+      name: Contatti
+      url: /contatti/
+      weight: 1
     - identifier: calendario
       name: Calendario
       url: /calendario/
-      weight: 10
+      weight: 2
     - identifier: under
       name: Under
       url: /under/
-      weight: 20
+      weight: 3
     - identifier: archivio
       name: Archivio
-      url: /archivio/
+      url: /archivio
+      weith: 4

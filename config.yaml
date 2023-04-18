@@ -8,7 +8,7 @@ disableKinds:
   - term
 params:
   env: production
-  defaultTheme: white
+  defaultTheme: dark
   disableThemeToggle: true
   profileMode:
     enabled: true

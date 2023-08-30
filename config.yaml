@@ -1,4 +1,4 @@
-baseURL: 'https://notdodo.github.io/saviors/'
+baseURL: "https://notdodo.github.io/saviors/"
 languageCode: it-it
 title: Saviors Social Rugby
 theme: PaperMod
@@ -6,17 +6,25 @@ disableKinds:
   - taxonomy
   - taxonomyTerm
   - term
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
 params:
   env: production
   defaultTheme: dark
   disableThemeToggle: true
   profileMode:
     enabled: true
-    title: Saviors Social Rugby
-    imageUrl: '/images/logo.png'
+    imageUrl: "/images/logo.png"
     imageTitle: SaviorsLogo
-    imageWidth: 140
-    imageHeight: 200
+    imageWidth: 345
+    imageHeight: 585
     # buttons:
     #   - name: Archive
     #     url: /archive
@@ -24,30 +32,49 @@ params:
     #     url: 'https://github.com/'
   socialIcons:
     - name: Instagram
-      url: 'https://www.instagram.com/saviors_social_rugby/'
+      url: "https://www.instagram.com/saviors_social_rugby/"
     - name: Facebook
-      url: 'https://www.facebook.com/saviorssocialrugby'
+      url: "https://www.facebook.com/saviorssocialrugby"
     - name: email
-      url: 'mailto:info@saviorssocialrugby.it'
+      url: "mailto:info@saviorssocialrugby.it"
+    - name: whatsapp
+      url: https://wa.me/+393297956230
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
-    - identifier: home
-      name: Home
-      url: /
-      weight: 1
+    # - identifier: home
+    #   name: Home
+    #   url: /
+    #   weight: 1
     - identifier: contatti
       name: Contatti
       url: /contatti/
-      weight: 2
+      weight: 1
     - identifier: calendario
       name: Calendario
       url: /calendario/
-      weight: 3
+      weight: 2
     - identifier: under
       name: Under
       url: /under/
-      weight: 4
+      weight: 3
+    - identifier: search
+      name: 🔎
+      url: /search/
     # - identifier: archivio
     #   name: Archivio
     #   url: /archivio
     #   weith: 5
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary

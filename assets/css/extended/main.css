@@ -3,10 +3,11 @@
     /* --theme: rgb(149, 194, 31); */
     /* --theme: rgb(28, 138, 55); */
     --entry: rgb(46, 46, 51);
-    --primary: rgb(28, 138, 55);
-    --secondary: rgb(149, 193, 31);
+    --primary: rgb(55, 52, 132);
+    --secondary: rgb(28, 138, 55);
     --tertiary: #e02189;
-    --content: rgb(230, 230, 230);
+    /* --content: rgb(230, 230, 230); */
+    --content: #323232;
     --hljs-bg: rgb(46, 46, 51);
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
@@ -17,12 +18,16 @@
 }
 
 .social-icons {
-    --primary: rgb(149, 193, 31);
+    --primary: rgb(55, 52, 132);
+}
+
+.profile_inner h1 {
+    display: none;
 }
 
 .social-icons a svg {
-    width: 40px;
-    height: 40px;
+    width: 66px;
+    height: 66px;
 }
 
 .footer a {
@@ -32,3 +37,79 @@
 a.anchor:after {
     content: ' 🏉';
 }
+
+.dark.list,
+body {
+    background: rgb(149, 193, 31);
+    background: -moz-linear-gradient(90deg, rgba(149, 193, 31, 1) 0%, rgba(28, 138, 55, 1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(149, 193, 31, 1) 0%, rgba(28, 138, 55, 1) 100%);
+    background: linear-gradient(90deg, rgba(149, 193, 31, 1) 0%, rgba(28, 138, 55, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#95c11f", endColorstr="#1c8a37", GradientType=1);
+}
+
+/* START hamburger menu */
+
+#menu-trigger {
+    display: none;
+}
+
+.menu {
+    display: flex;
+    margin: auto var(--gap);
+    list-style: none;
+    word-break: keep-all;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.menu li+li {
+    margin-inline-start: var(--gap);
+}
+
+.menu a {
+    font-size: 20px;
+}
+
+.menu .active {
+    font-weight: 500;
+    border-bottom: 2px solid currentColor;
+}
+
+@media screen and (max-width: 768px) {
+    .menu {
+        list-style: none;
+        position: absolute;
+        right: 0;
+        z-index: 5;
+        margin-bottom: var(--gap);
+        padding: var(--gap);
+        background: var(--code-bg);
+        border-radius: var(--radius);
+        border: 2px solid var(--primary);
+        line-height: 2.5;
+        margin: calc(var(--header-height) - var(--gap)) var(--gap);
+        display: block;
+    }
+
+    .list .menu {
+        background: rgb(28, 138, 55);
+    }
+
+    .menu li+li {
+        margin-inline-start: 0;
+    }
+
+    #menu-trigger {
+        font-size: 30px;
+        position: relative;
+        display: block;
+        float: right;
+        margin: auto var(--gap);
+    }
+
+    .menu.hidden {
+        display: none;
+    }
+}
+
+/* END hamburger menu */

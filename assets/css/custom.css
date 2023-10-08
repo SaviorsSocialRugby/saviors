@@ -1,11 +1,3 @@
-/* body {
-    background: rgb(149, 193, 31);
-    background: -moz-linear-gradient(90deg, rgba(149, 193, 31, 1) 0%, rgba(28, 138, 55, 1) 100%);
-    background: -webkit-linear-gradient(90deg, rgba(149, 193, 31, 1) 0%, rgba(28, 138, 55, 1) 100%);
-    background: linear-gradient(90deg, rgba(149, 193, 31, 1) 0%, rgba(28, 138, 55, 1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#95c11f", endColorstr="#1c8a37", GradientType=1);
-} */
-
 /* .grass .canvas-container {
     position: absolute;
     bottom: 0px;
@@ -27,7 +19,11 @@ img.mb-2 {
     margin: 0;
 }
 
-div.inset-0:nth-child(2) {
+.mix-blend-multiply {
+    mix-blend-mode: unset;
+}
+
+div.inset-0 {
     background: rgb(149, 193, 31);
     background: -moz-linear-gradient(90deg, rgba(149, 193, 31, 1) 0%, rgba(28, 138, 55, 1) 100%);
     background: -webkit-linear-gradient(90deg, rgba(149, 193, 31, 1) 0%, rgba(28, 138, 55, 1) 100%);
@@ -49,13 +45,14 @@ h1.mb-2 {
 }
 
 .text-primary-300 {
-    --tw-text-opacity: 1;
     color: black;
     font-size: larger;
 }
 
 .text-primary-300:hover {
-    --tw-text-opacity: 1;
     color: rgb(55, 52, 132);
-    font-size: larger;
+}
+
+h3.relative>span:nth-child(1)>a:nth-child(1) {
+    color: rgb(28, 138, 55);
 }

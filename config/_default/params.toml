@@ -6,8 +6,8 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme = "blowfish"
-defaultAppearance = "light"  # valid options: light or dark
-autoSwitchAppearance = false
+defaultAppearance = "light" # valid options: light or dark
+autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = false
@@ -31,7 +31,7 @@ layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill
 showMenu = false
 showCopyright = false
 showThemeAttribution = false
-showAppearanceSwitcher = false
+showAppearanceSwitcher = true
 showScrollToTop = false
 
 [homepage]

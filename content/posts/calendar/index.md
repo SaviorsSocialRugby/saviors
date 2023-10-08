@@ -8,7 +8,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - calendar
+  - calendario
   - 2023/2024
 showHeadingAnchors: false
 showHero: false

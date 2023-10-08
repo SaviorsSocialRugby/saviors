@@ -1,0 +1,27 @@
+languageCode = "it"
+languageName = "Italian"
+
+weight = 1
+title = "Home"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+# logo = "images/logo.png"
+# secondaryLogo = "images/logo.png"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+name = "Savior Social Rugby"
+image = "images/logo.png"
+# headline = "I'm only human"
+# bio = "A little bit about you"
+links = [
+  { instagram = "https://instagram.com/username" },
+  { whatsapp = "https://wa.me/phone-number" },
+  { facebook = "https://facebook.com/username" },
+  { email = "mailto:hello@your_domain.com" },
+]

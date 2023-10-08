@@ -1,15 +1,16 @@
 ---
-author: notdodo
 title: Contatti
+showDate: false
+showHero: false
 hidemeta: true
 slug: contatti
 tags:
-  - rugby
-  - savior
+  - saviors
   - contatti
   - indirizzo
   - orari
   - club-house
+  - rugby
 ---
 
 ![](../images/team.jpg)
@@ -18,18 +19,7 @@ tags:
 
 Via Roversano, 2815, 47521 Cesena FC
 
-{{< rawhtml >}}
-
-<iframe
-  width="100%"
-  height="450"
-  frameborder="0" style="border:0"
-  referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCq4fwXsWGIKvLQr7bNfqxs8BITQKs4UnU&q=Saviors+Social+Rugby+-+Club+House+e+Campo+da+gioco&maptype=satellite&zoom=17"
-  allowfullscreen>
-</iframe>
-
-{{< /rawhtml >}}
+<iframe width="100%" height="450" frameborder="0" style="border:0" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCq4fwXsWGIKvLQr7bNfqxs8BITQKs4UnU&q=Saviors+Social+Rugby+-+Club+House+e+Campo+da+gioco&maptype=satellite&zoom=17" allowfullscreen> </iframe>
 
 ### Email
 

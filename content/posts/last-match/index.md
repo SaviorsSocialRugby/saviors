@@ -8,7 +8,6 @@ sharingLinks:
 tags:
   - Saviors
   - Imola
-  - rugby
 showHeadingAnchors: false
 showHero: false
 showDate: false

@@ -8,7 +8,6 @@ sharingLinks:
 tags:
   - Saviors
   - La Tribù
-  - rugby
 showDate: false
 showHeadingAnchors: false
 showHero: false

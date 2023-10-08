@@ -8,12 +8,10 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - rugby
   - calendar
   - 2023/2024
 showHeadingAnchors: false
 showHero: false
-# menu: main
 weight: 20
 ---
 

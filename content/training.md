@@ -4,12 +4,11 @@ showDate: false
 showHero: false
 hidemeta: true
 tags:
-  - saviors
+  - Saviors
   - contatti
   - indirizzo
   - orari
   - club-house
-  - rugby
 ---
 
 ![](../images/training.jpg)

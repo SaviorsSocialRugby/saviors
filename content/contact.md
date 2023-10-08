@@ -5,12 +5,11 @@ showHero: false
 hidemeta: true
 slug: contatti
 tags:
-  - saviors
+  - Saviors
   - contatti
   - indirizzo
   - orari
   - club-house
-  - rugby
 ---
 
 ![](../images/team.jpg)

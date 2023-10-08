@@ -53,3 +53,9 @@ h1.mb-2 {
     color: black;
     font-size: larger;
 }
+
+.text-primary-300:hover {
+    --tw-text-opacity: 1;
+    color: rgb(55, 52, 132);
+    font-size: larger;
+}

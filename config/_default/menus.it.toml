@@ -28,7 +28,7 @@ weight = 30
 [[main]]
 name = "Allenamenti"
 parent = "Senior"
-# pageRef = "posts/calendar"
+pageRef = "training"
 weight = 10
 
 [[main]]
@@ -45,7 +45,7 @@ weight = 40
 [[main]]
 name = " Allenamenti"
 parent = "Under"
-# pageRef = "posts/calendar"
+pageRef = "training-under"
 weight = 10
 
 [[main]]

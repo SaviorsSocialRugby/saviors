@@ -47,3 +47,9 @@ h1.mb-2 {
 .thumbnail_card {
     background-position: unset;
 }
+
+.text-primary-300 {
+    --tw-text-opacity: 1;
+    color: black;
+    font-size: larger;
+}

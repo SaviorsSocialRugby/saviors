@@ -16,6 +16,6 @@ weight: 2
 
 ![](./featured.jpg)
 
-| Giornata  | Data       | Casa         | Ospiti                       | Risultato |
-| --------- | ---------- | ------------ | ---------------------------- | --------- |
-| 1a Andata | 15/10/2023 | La Tribù ASD | **Saviors Social Rugby ASD** | 10 - 25   |
+| Giornata  | Data       | Casa         | Ospiti                       | Risultato   |
+| --------- | ---------- | ------------ | ---------------------------- | ----------- |
+| 1a Andata | 15/10/2023 | La Tribù ASD | **Saviors Social Rugby ASD** | 10 - **25** |

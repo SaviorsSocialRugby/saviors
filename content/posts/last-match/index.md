@@ -1,21 +1,21 @@
 ---
-title: Ultimo Match<br/>La Tribù vs Saviors
-date: "2023-10-15"
+title: Prossimo Match<br/>Saviors vs Torelli Sudati
+date: "2023-10-29"
 sharingLinks:
   - facebook
   - whatsapp
   - telegram
 tags:
   - Saviors
-  - La Tribù
+  - Torelli Sudati
+showDate: false
 showHeadingAnchors: false
 showHero: false
-showDate: false
-weight: 2
+weight: 1
 ---
 
 ![](./featured.jpg)
 
-| Giornata  | Data       | Casa         | Ospiti                       | Risultato   |
-| --------- | ---------- | ------------ | ---------------------------- | ----------- |
-| 1a Andata | 15/10/2023 | La Tribù ASD | **Saviors Social Rugby ASD** | 10 - **25** |
+| Giornata  | Data       | Casa                         | Ospiti                | Orario | Indirizzo                        |
+| --------- | ---------- | ---------------------------- | --------------------- | ------ | -------------------------------- |
+| 2a Andata | 29/10/2023 | **Saviors Social Rugby ASD** | ASD Torelli Sudati RC | 14:30  | Via Roversano 2815 (FC) - Cesena |

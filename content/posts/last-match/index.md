@@ -1,13 +1,13 @@
 ---
-title: Ultimo Match<br/>Imola vs Saviors (17 - 22)
-date: "2023-10-29"
+title: Ultimo Match<br/>Cinghiali vs Saviors (10 - 54)
+date: "2023-11-12"
 sharingLinks:
   - facebook
   - whatsapp
   - telegram
 tags:
   - Saviors
-  - Imola
+  - Cinghiali
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -16,6 +16,8 @@ weight: 1
 
 ![](./featured.jpg)
 
-<!-- | Giornata  | Data       | Casa                         | Ospiti                | Orario | Indirizzo                        |
-| --------- | ---------- | ---------------------------- | --------------------- | ------ | -------------------------------- |
-| 2a Andata | 29/10/2023 | **Saviors Social Rugby ASD** | ASD Torelli Sudati RC | 14:30  | Via Roversano 2815 (FC) - Cesena | -->
+| Giornata  | Data       | Casa                      | Ospiti                       | Orario | Indirizzo                   |
+| --------- | ---------- | ------------------------- | ---------------------------- | ------ | --------------------------- |
+| 3a Andata | 12/11/2023 | Cinghiali del Setta Rugby | **Saviors Social Rugby ASD** | 14:30  | Via Romita, 2/7, 40128 (BO) |
+
+![](./team.jpg)

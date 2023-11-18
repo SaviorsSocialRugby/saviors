@@ -11,14 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Contatti"
-pageRef = "contact"
-weight = 10
+name = "Storia"
+pageRef = "posts/history"
+weight = 1
 
-# [[main]]
-# name = "Calendario"
-# pageRef = "calendar"
-# weight = 20
+[[main]]
+name = "Valori"
+pageRef = "posts/values"
+weight = 2
+
+[[main]]
+name = "Palmares"
+pageRef = "posts/palmares"
+weight = 3
 
 [[main]]
 name = "Senior"
@@ -48,11 +53,16 @@ parent = "Under"
 pageRef = "training-under"
 weight = 10
 
+# [[main]]
+# name = " Calendario"
+# parent = "Under"
+# pageRef = "posts/calendar-under"
+# weight = 20
+
 [[main]]
-name = " Calendario"
-parent = "Under"
-pageRef = "posts/calendar-under"
-weight = 20
+name = "Contatti"
+pageRef = "contact"
+weight = 100
 
 # [[main]]
 # name = "sub-menu 1"
@@ -60,10 +70,10 @@ weight = 20
 # pageRef = "samples"
 # weight = 30
 
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
+# [[subnavigation]]
+# name = "An interesting topic"
+# pageRef = "tags/interesting-topic"
+# weight = 10
 
 # [[subnavigation]]
 # name = "My Awesome Category"
@@ -77,11 +87,11 @@ weight = 20
 
 
 # [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+# name = "Tags"
+# pageRef = "tags"
+# weight = 10
 
 # [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+# name = "Categories"
+# pageRef = "categories"
+# weight = 20

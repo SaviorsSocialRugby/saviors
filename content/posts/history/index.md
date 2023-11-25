@@ -26,7 +26,7 @@ Nel 2009, la squadra decise di investire nel futuro del rugby, lanciando il prog
 Il 2017 segnò un nuovo capitolo nella storia del'Old Cesena Rugby quando atleti desiderosi di gioco e divertimento trovarono una nuova casa a **Mulino 100**.
 Con il **Campionato UISP** pronti ad accoglierli, la squadra senior si [impose fin da subito](/posts/palmares/) come una forza dominante nel torneo. L'impegno, la determinazione e la fratellanza all'interno della squadra li resero rapidamente protagonisti rispettati nel panorama rugby italiano.
 
-La stagione 2018/2019 fu un punto culminante per i Saviors. La squadra senior, con la sua abilità e il suo spirito di squadra, trionfò **vincendo il Campionato UISP**.
+La stagione 2018/2019 fu un punto culminante per l'Old Cesena Rugby. La squadra senior, con la sua abilità e il suo spirito di squadra, trionfò **vincendo il Campionato UISP**.
 Questa vittoria fu un riconoscimento del lavoro svolto nel corso degli anni e una testimonianza della dedizione di ogni singolo giocatore.
 
 Il 2021 portò con sé un nuovo capitolo nella storia della squadra con un cambio di nome che rifletteva il loro impegno non solo nel rugby ma anche nella comunità. Nacque così il **Savior Social Rugby ASD**, sottolineando l'importanza della squadra nel tessuto sociale di Cesena.

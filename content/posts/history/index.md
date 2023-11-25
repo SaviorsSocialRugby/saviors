@@ -46,7 +46,7 @@ Un folto gruppo di giocatori veterani decide di lasciare il Cesena Rugby e fonda
 
 #### 2009
 
-Inizia il progetto dei **MONELLI**, dedicato alle categorie del mini rugby.
+Inizia il progetto dei **Monelli**, dedicato alle categorie del mini rugby.
 
 #### 2017
 

@@ -17,7 +17,7 @@ weight: 30
 
 ![](./featured.jpg)
 
-Nel lontano 2007, un coraggioso gruppo di giocatori veterani decise di intraprendere un nuovo capitolo nella loro passione per il rugby abbandonando il Cesena Rugby.
+Nel lontano 2007, un folto gruppo di giocatori veterani decise di intraprendere un nuovo capitolo nella loro passione per il rugby abbandonando il Cesena Rugby.
 
 Nacque l'**OLD CESENA RUGBY**, una squadra dedicata a coloro che, nonostante l'età, desideravano continuare a giocare e a condividere la loro esperienza sul campo. La squadra non si limitò solo ai confini nazionali, ma partecipò attivamente ai principali tornei di categoria sia in Italia che all'estero, portando il nome di Cesena con fierezza attraverso il mondo del rugby.
 

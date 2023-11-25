@@ -21,7 +21,7 @@ Nel lontano 2007, un folto gruppo di giocatori veterani decise di intraprendere 
 
 Nacque l'**Old Cesena Rugby**, una squadra dedicata a coloro che, nonostante l'età, desideravano continuare a giocare e a condividere la loro esperienza sul campo. La squadra non si limitò solo ai confini nazionali, ma partecipò attivamente ai principali tornei di categoria sia in Italia che all'estero, portando il nome di Cesena con fierezza attraverso il mondo del rugby.
 
-Nel 2009, la squadra decise di investire nel futuro del rugby, lanciando il progetto [**MONELLI**](/training-under/). Questo programma era dedicato alle categorie giovanili, aprendo le porte del mini rugby per i giovani talenti e curiosi della regione. Era un impegno a garantire che la passione per questo sport fosse trasmessa alle generazioni future, creando un solido legame tra la storia della squadra e il suo futuro.
+Nel 2009, la squadra decise di investire nel futuro del rugby, lanciando il progetto [**Monelli**](/training-under/). Questo programma era dedicato alle categorie giovanili, aprendo le porte del mini rugby per i giovani talenti e curiosi della regione. Era un impegno a garantire che la passione per questo sport fosse trasmessa alle generazioni future, creando un solido legame tra la storia della squadra e il suo futuro.
 
 Il 2017 segnò un nuovo capitolo nella storia del'Old Cesena Rugby quando atleti desiderosi di gioco e divertimento trovarono una nuova casa a **Mulino 100**.
 Con il **Campionato UISP** pronti ad accoglierli, la squadra senior si [impose fin da subito](/posts/palmares/) come una forza dominante nel torneo. L'impegno, la determinazione e la fratellanza all'interno della squadra li resero rapidamente protagonisti rispettati nel panorama rugby italiano.

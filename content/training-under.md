@@ -1,5 +1,5 @@
 ---
-title: Allenamenti
+title: Allenamenti Under
 showDate: false
 showHero: false
 hidemeta: true

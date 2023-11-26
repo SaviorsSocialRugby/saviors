@@ -17,6 +17,7 @@ enableCodeCopy = false
 
 disableImageOptimization = true
 
+homePageVideo = "videos/video.mp4"
 defaultBackgroundImage = "images/logo.png" # used as default for background images 
 # defaultFeaturedImage = "images/logo.png"   # used as default for featured images in all articles
 
@@ -25,7 +26,8 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = true
 
 [header]
-layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+# layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+layout = "fixed-fill"
 
 [footer]
 showMenu = false
@@ -35,8 +37,9 @@ showAppearanceSwitcher = true
 showScrollToTop = false
 
 [homepage]
-layout = "hero" # valid options: page, profile, hero, card, background, custom
+layout = "page" # valid options: page, profile, hero, card, background, custom
 # homepageImage = "images/logo.png" # used in: hero, and card
+showTitle = false
 showRecent = true
 showRecentItems = 6
 showMoreLink = false

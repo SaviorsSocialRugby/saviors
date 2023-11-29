@@ -33,7 +33,7 @@ layout = "fixed-fill"
 showMenu = false
 showCopyright = false
 showThemeAttribution = false
-showAppearanceSwitcher = true
+showAppearanceSwitcher = false
 showScrollToTop = false
 
 [homepage]

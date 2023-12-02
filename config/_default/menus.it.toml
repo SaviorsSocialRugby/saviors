@@ -64,6 +64,24 @@ name = "Contatti"
 pageRef = "contact"
 weight = 100
 
+[[main]]
+identifier = "instagram"
+pre = "instagram"
+url = "https://www.instagram.com/saviors_social_rugby"
+weight = 101
+
+[[main]]
+identifier = "facebook"
+pre = "facebook"
+url = "https://www.facebook.com/saviorssocialrugby"
+weight = 102
+
+[[main]]
+identifier = "whatsapp"
+pre = "whatsapp"
+url = "https://wa.me/+393297956230"
+weight = 103
+
 # [[main]]
 # name = "sub-menu 1"
 # parent = "Under"
@@ -95,3 +113,19 @@ weight = 100
 # name = "Categories"
 # pageRef = "categories"
 # weight = 20
+
+[[footer]]
+name = "Instagram"
+url = "https://www.instagram.com/saviors_social_rugby"
+
+[[footer]]
+name = "Whatsapp"
+url = "https://wa.me/+393297956230"
+
+[[footer]]
+name = "Facebook"
+url = "https://www.facebook.com/saviorssocialrugby"
+
+[[footer]]
+name = "E-mail"
+url = "mailto:info@saviorssocialrugby.it"

@@ -1,5 +1,5 @@
 ---
-title: Calendario Compionato UISP 2023/2024
+title: Calendario Campionato UISP 2023/2024
 date: "1990-08-04"
 showDate: false
 sharingLinks:

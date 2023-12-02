@@ -13,7 +13,7 @@ tags:
 
 ![](../images/training-under.jpg)
 
-<iframe src="https://drive.google.com/file/d/1G2k-RQU4lYhtJuWucGlYhwMj6uVUu6Mk/preview" width="100%" height="350" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1G2k-RQU4lYhtJuWucGlYhwMj6uVUu6Mk/preview" width="100%" height="550" allow="autoplay" frameborder="0"></iframe>
 
 ### Club House e Campo da Gioco
 

@@ -11,34 +11,46 @@ autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = false
+disableImageZoom = true
 
 # mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization = true
-
 homePageVideo = "videos/video.mp4"
+disableImageOptimization = true
 defaultBackgroundImage = "images/logo.png" # used as default for background images 
-# defaultFeaturedImage = "images/logo.png"   # used as default for featured images in all articles
+defaultFeaturedImage = "images/logo.png"   # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = true
+
+[[sponsors]]
+name = "Legni per api"
+site = "https://www.legniperapi.it"
+img = "sponsors/legniperapi.png"
+
+[[sponsors]]
+name = "Miele Ligustica"
+img = "sponsors/valdomiele.png"
+
+[[sponsors]]
+img = "sponsors/placeholder.png"
 
 [header]
 # layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 layout = "fixed-fill"
 
 [footer]
-showMenu = false
+showMenu = true
 showCopyright = false
 showThemeAttribution = false
 showAppearanceSwitcher = false
 showScrollToTop = false
 
 [homepage]
-layout = "page" # valid options: page, profile, hero, card, background, custom
-# homepageImage = "images/logo.png" # used in: hero, and card
+layout = "page"                   # valid options: page, profile, hero, card, background, custom
+homepageImage = "images/logo.png" # used in: hero, and card
 showTitle = false
 showRecent = true
 showRecentItems = 6
@@ -46,7 +58,7 @@ showMoreLink = false
 showMoreLinkDest = "/posts"
 cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = false # only used when layout equals background
+layoutBackgroundBlur = false      # only used when layout equals background
 
 [article]
 showDate = true

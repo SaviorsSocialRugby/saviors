@@ -45,6 +45,11 @@ weight = 20
 [[main]]
 name = "Under"
 pageRef = "under"
+weight = 30
+
+[[main]]
+name = "Old"
+pageRef = "old"
 weight = 40
 
 [[main]]

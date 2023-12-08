@@ -49,7 +49,7 @@ weight = 30
 
 [[main]]
 name = "Old"
-pageRef = "old"
+pageRef = "posts/old"
 weight = 40
 
 [[main]]

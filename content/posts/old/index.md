@@ -8,9 +8,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - i nostri valori
-  - values
-  - statuto
+  - old
 showHeadingAnchors: false
 showTaxonomies: false
 showHero: false

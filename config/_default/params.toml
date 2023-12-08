@@ -55,7 +55,7 @@ layout = "fixed-fill"
 
 [footer]
 showMenu = true
-showCopyright = false
+showCopyright = true
 showThemeAttribution = false
 showAppearanceSwitcher = false
 showScrollToTop = false

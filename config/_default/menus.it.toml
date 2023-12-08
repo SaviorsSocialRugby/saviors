@@ -44,7 +44,7 @@ weight = 20
 
 [[main]]
 name = "Under"
-pageRef = "under"
+pageRef = "posts/under"
 weight = 30
 
 [[main]]

@@ -1,5 +1,5 @@
 ---
-title: Ultimo Match<br/>Cinghiali vs Saviors (10 - 57)
+title: Ultimo Match<br/>Saviors vs Putei (24 - 5)
 date: "2023-11-12"
 sharingLinks:
   - facebook
@@ -7,16 +7,16 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Cinghiali
+  - Putei
 showDate: false
 showHeadingAnchors: false
 showHero: false
 weight: 1
 ---
 
-| Giornata  | Data       | Casa                      | Ospiti                       | Orario | Indirizzo                   |
-| --------- | ---------- | ------------------------- | ---------------------------- | ------ | --------------------------- |
-| 3a Andata | 12/11/2023 | Cinghiali del Setta Rugby | **Saviors Social Rugby ASD** | 14:30  | Via Romita, 2/7, 40128 (BO) |
+| Giornata  | Data       | Casa                         | Ospiti           | Orario | Indirizzo               |
+| --------- | ---------- | ---------------------------- | ---------------- | ------ | ----------------------- |
+| 5a Andata | 17/12/2023 | **Saviors Social Rugby ASD** | Putei Veci Rugby | 14:30  | Via Roversano 2815 (FC) |
 
 ![](./team.jpg)
 

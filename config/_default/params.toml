@@ -24,18 +24,18 @@ smartTOCHideUnfocusedChildren = true
 [next_match]
 home = "Saviors Social Rugby"
 home_logo = "saviors.png"
-visitors = "Putei Veci Rugby"
-visitors_logo = "puteiveci.png"
+visitors = "La Tribù ASD"
+visitors_logo = "latribu.png"
 result = "TBD"
-when_where = "17/12/2023 14:30 @ Via Roversano 2815 (FC)"
+when_where = "28/01/2024 14:30 @ Via Roversano 2815 (FC)"
 
 [last_match]
-home = "Cinghiali del Setta Rugby"
-home_logo = "cinghialidelsetta.png"
-visitors = "Saviors Social Rugby"
-visitors_logo = "saviors.png"
-result = "10 | 57"
-when_where = "12/11/2023 14:30 @ Via Romita 2/7 (BO)"
+home = "Saviors Social Rugby"
+home_logo = "saviors.png"
+visitors = "Putei Veci Rugby"
+visitors_logo = "puteiveci.png"
+result = "24 | 5"
+when_where = "17/12/2023 14:30 @ Via Roversano 2815 (FC)"
 
 [[sponsors]]
 name = "Legni per api"

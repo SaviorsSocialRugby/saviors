@@ -2,7 +2,6 @@
 title: Allenamenti Under
 showDate: false
 showHero: false
-hidemeta: true
 tags:
   - Saviors
   - contatti

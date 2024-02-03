@@ -2,7 +2,6 @@
 title: Contatti
 showDate: false
 showHero: false
-hidemeta: true
 slug: contatti
 tags:
   - Saviors

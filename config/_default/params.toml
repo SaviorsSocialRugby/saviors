@@ -22,12 +22,12 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = true
 
 [next_match]
-home = "ASD Torelli Sudati RC"
-home_logo = "torelli.png"
-visitors = "Saviors Social Rugby"
-visitors_logo = "saviors.png"
+visitors = "Cinghiali del Setta Rugby"
+visitors_logo = "cinghialidelsetta.png"
+home = "Saviors Social Rugby"
+home_logo = "saviors.png"
 result = "TBD"
-when_where = "11/02/2024 13:30 @ Via Sydney Sonnino 1, Padova"
+when_where = "03/03/2024 13:30 @ Via Roversano 2815, Cesena"
 
 [last_match]
 home = "Saviors Social Rugby"

@@ -64,6 +64,11 @@ weight = 10
 # pageRef = "posts/calendar-under"
 # weight = 20
 
+# [[main]]
+# name = "Staff"
+# pageRef = "Staff"
+# weight = 99
+
 [[main]]
 name = "Contatti"
 pageRef = "contact"

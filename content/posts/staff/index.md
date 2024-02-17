@@ -12,7 +12,7 @@ showTaxonomies: false
 showHero: false
 ---
 
-![](./thumb1024.png)
+![](./featured.png)
 
 ## Consiglio Direttivo
 

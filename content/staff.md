@@ -6,9 +6,7 @@ slug: staff
 tags:
   - Saviors
   - staff
-  - indirizzo
-  - orari
-  - club-house
+  - consiglio direttivo
 showHeadingAnchors: false
 showTaxonomies: false
 showHero: false

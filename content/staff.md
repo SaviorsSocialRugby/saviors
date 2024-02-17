@@ -19,16 +19,16 @@ showHero: false
 
 ### Consiglieri
 
-- **Adriano Barzanti** - Segregatario
+- **Adriano Barzanti** - Segretario
 - **Simone Cossu** - Referente Prima Squadra
 - **Raffaello Giardini** - Direttore Tecnico
-- **Massimo Magnani** - Reference Club House
+- **Massimo Magnani** - Referente Club House
 - **Davide Valdinoci** - Referente Giovanili
 
 ## Settore Tecnico
 
 - **Raffaello Giardini** - Direttore Tecnico
-- **Alessadro D'Agostino** - Allenatore Prima Squadra
+- **Alessandro D'Agostino** - Allenatore Prima Squadra
 - **Manuele Cossu** - Allenatore Attacco e Skills
 - **Emanuele Gollinucci** - Preparatore Atletico
 

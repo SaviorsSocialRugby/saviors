@@ -13,7 +13,7 @@ showHeadingAnchors: false
 showTaxonomies: false
 showHero: false
 showTags: false
-weight: 4000
+weight: 9
 ---
 
 <img src="./featured.png" width="100%">

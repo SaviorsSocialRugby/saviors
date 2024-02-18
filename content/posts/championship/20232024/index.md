@@ -1,6 +1,6 @@
 ---
 title: Campionato UISP 2023/2024
-date: "2025-08-04"
+date: "1990-08-04"
 showDate: false
 sharingLinks:
   - facebook
@@ -13,10 +13,10 @@ tags:
 showHeadingAnchors: false
 showHero: false
 showTableOfContents: true
-weight: 3
+weight: 30
 ---
 
-### Classifica - Girone D
+## Classifica - Girone D
 
 |     | Team                         | Punti | G/V/P | Pt. fatti | Pt. subiti | Mt. fatte | Mt. subite | Pt. bonus | Diff Pt. |
 | --- | ---------------------------- | ----- | ----- | --------- | ---------- | --------- | ---------- | --------- | -------- |
@@ -26,7 +26,7 @@ weight: 3
 | 4   | ASD Torelli Sudati RC        | 9     | 5/2/3 | 51        | 118        | 8         | 18         | 1         | -67      |
 | 5   | Cinghiali del Setta Rugby    | 1     | 5/0/5 | 39        | 174        | 6         | 24         | 1         | -135     |
 
-### Calendario - Girone D
+## Calendario - Girone D
 
 ![](./featured.jpg)
 

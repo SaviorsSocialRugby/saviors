@@ -13,7 +13,15 @@ showHeadingAnchors: false
 showTaxonomies: false
 showHero: false
 showTags: false
-weight: 40
+weight: 4000
 ---
 
-![](./featured.png)
+<img src="./featured.png" width="100%">
+
+## Ultimi Risultati
+
+![](./last-match.jpg)
+
+## Allenamenti
+
+[Vieni a provare il rugby!](/training-under)

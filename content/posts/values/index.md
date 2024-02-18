@@ -15,7 +15,7 @@ showHeadingAnchors: false
 showTaxonomies: false
 showHero: false
 showTags: false
-weight: 40
+weight: 6
 ---
 
 ![](./featured.jpg)

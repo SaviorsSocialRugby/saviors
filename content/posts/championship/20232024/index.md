@@ -13,7 +13,7 @@ tags:
 showHeadingAnchors: false
 showHero: false
 showTableOfContents: true
-weight: 30
+weight: 300
 ---
 
 ## Classifica - Girone D

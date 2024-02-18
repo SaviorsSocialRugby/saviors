@@ -23,13 +23,13 @@ showHero: false
 
 - **Adriano Barzanti** - Segretario
 - **Simone Cossu** - Referente Prima Squadra
-- **Raffaello Giardini** - Direttore Tecnico
+- **Raffaello Gardini** - Direttore Tecnico
 - **Massimo Magnani** - Referente Club House
 - **Davide Valdinoci** - Referente Giovanili
 
 ## Settore Tecnico
 
-- **Raffaello Giardini** - Direttore Tecnico
+- **Raffaello Gardini** - Direttore Tecnico
 - **Alessandro D'Agostino** - Allenatore Prima Squadra
 - **Manuele Cossu** - Allenatore Attacco e Skills
 - **Emanuele Gollinucci** - Preparatore Atletico

@@ -27,7 +27,7 @@ weight = 3
 
 [[main]]
 name = "Senior"
-pageRef = "senior"
+pageRef = "posts/calendar"
 weight = 30
 
 [[main]]

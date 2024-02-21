@@ -13,17 +13,17 @@ tags:
 showHeadingAnchors: false
 showHero: false
 showTableOfContents: true
-weight: 300
+weight: 3
 ---
 
 ## Classifica - Girone D
 
 |     | Team                         | Punti | G/V/P | Pt. fatti | Pt. subiti | Mt. fatte | Mt. subite | Pt. bonus | Diff Pt. |
 | --- | ---------------------------- | ----- | ----- | --------- | ---------- | --------- | ---------- | --------- | -------- |
-| 1   | **Saviors Social Rugby ASD** | 25    | 5/5/0 | 201       | 39         | 29        | 6          | 5         | 162      |
-| 2   | Putei Veci Rugby             | 17    | 5/5/1 | 98        | 55         | 13        | 7          | 1         | 43       |
-| 3   | La Tribù ASD                 | 11    | 6/2/4 | 110       | 113        | 15        | 16         | 3         | -3       |
-| 4   | ASD Torelli Sudati RC        | 9     | 5/2/3 | 51        | 118        | 8         | 18         | 1         | -67      |
+| 1   | **Saviors Social Rugby ASD** | 25    | 6/5/1 | 201       | 59         | 29        | 10         | 5         | 142      |
+| 2   | Putei Veci Rugby             | 17    | 5/4/1 | 98        | 55         | 13        | 7          | 1         | 43       |
+| 3   | ASD Torelli Sudati RC        | 14    | 6/3/3 | 71        | 118        | 12        | 18         | 1         | -47      |
+| 4   | La Tribù ASD                 | 11    | 6/2/4 | 110       | 113        | 15        | 16         | 3         | -3       |
 | 5   | Cinghiali del Setta Rugby    | 1     | 5/0/5 | 39        | 174        | 6         | 24         | 1         | -135     |
 
 ## Calendario - Girone D

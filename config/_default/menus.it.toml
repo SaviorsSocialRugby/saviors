@@ -27,7 +27,7 @@ weight = 3
 
 [[main]]
 name = "Senior"
-pageRef = "posts/calendar"
+pageRef = "posts/championship/20232024"
 weight = 30
 
 [[main]]
@@ -37,9 +37,9 @@ pageRef = "training"
 weight = 10
 
 [[main]]
-name = "Calendario"
+name = "Campionato 2023/2024"
 parent = "Senior"
-pageRef = "posts/calendar"
+pageRef = "posts/championship/20232024"
 weight = 20
 
 [[main]]

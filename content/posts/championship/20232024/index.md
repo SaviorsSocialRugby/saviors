@@ -20,11 +20,11 @@ weight: 3
 
 |     | Team                         | Punti | G/V/P | Pt. fatti | Pt. subiti | Mt. fatte | Mt. subite | Pt. bonus | Diff Pt. |
 | --- | ---------------------------- | ----- | ----- | --------- | ---------- | --------- | ---------- | --------- | -------- |
-| 1   | **Saviors Social Rugby ASD** | 25    | 6/5/1 | 201       | 59         | 29        | 10         | 5         | 142      |
-| 2   | Putei Veci Rugby             | 17    | 5/4/1 | 98        | 55         | 13        | 7          | 1         | 43       |
-| 3   | ASD Torelli Sudati RC        | 14    | 6/3/3 | 71        | 118        | 12        | 18         | 1         | -47      |
+| 1   | **Saviors Social Rugby ASD** | 30    | 7/6/1 | 270       | 59         | 40        | 10         | 6         | 211      |
+| 2   | Putei Veci Rugby             | 21    | 6/5/1 | 111       | 58         | 15        | 7          | 1         | 53       |
+| 3   | ASD Torelli Sudati RC        | 14    | 7/3/4 | 74        | 131        | 12        | 20         | 2         | -57      |
 | 4   | La Tribù ASD                 | 11    | 6/2/4 | 110       | 113        | 15        | 16         | 3         | -3       |
-| 5   | Cinghiali del Setta Rugby    | 1     | 5/0/5 | 39        | 174        | 6         | 24         | 1         | -135     |
+| 5   | Cinghiali del Setta Rugby    | 1     | 6/0/6 | 39        | 243        | 6         | 35         | 1         | -204     |
 
 ## Calendario - Girone D
 
@@ -44,6 +44,13 @@ weight: 3
 | 5a Ritorno | 07/04/2024 | Putei Veci Rugby             | **Saviors Social Rugby ASD** | 14:30  | Gesbury Park' Via Forte Gazzera 2, Mestre (VE)                          |
 
 ## Risultati - Girone D
+
+### 3a Giornata - Ritorno - 03/03/2024
+
+|                              | VS  |                           | Risultato | Mete |
+| ---------------------------- | --- | ------------------------- | --------- | ---- |
+| **Saviors Social Rugby ASD** | VS  | Cinghiali del Setta Rugby | 69-0      | 11-0 |
+| Putei Veci Rugby             | VS  | ASD Torelli Sudati RC     | 13-3      | 2-0  |
 
 ### 2a Giornata - Ritorno - 11/02/2024
 

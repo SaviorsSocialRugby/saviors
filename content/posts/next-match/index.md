@@ -1,5 +1,5 @@
 ---
-title: Prossimo Match<br/>Saviors vs Cinghiali del Setta
+title: Prossimo Match<br/>Putei Veci vs Saviors
 date: "2023-11-12"
 sharingLinks:
   - facebook
@@ -7,16 +7,16 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Cinghiali
+  - Putei
 showDate: false
 showHeadingAnchors: false
 showHero: false
 weight: 1
 ---
 
-| Giornata   | Data       | Casa                     | Ospiti                    | Orario | Indirizzo                       |
-| ---------- | ---------- | ------------------------ | ------------------------- | ------ | ------------------------------- |
-| 3a Ritorno | 03/03/2024 | **Saviors Social Rugby** | Cinghiali del Setta Rugby | 14:30  | Via Roversano 2815 (FC), Cesena |
+| Giornata   | Data       | Casa             | Ospiti                       | Orario | Indirizzo                                      |
+| ---------- | ---------- | ---------------- | ---------------------------- | ------ | ---------------------------------------------- |
+| 5a Ritorno | 07/04/2024 | Putei Veci Rugby | **Saviors Social Rugby ASD** | 14:30  | Gesbury Park' Via Forte Gazzera 2, Mestre (VE) |
 
 ![](./team.jpg)
 

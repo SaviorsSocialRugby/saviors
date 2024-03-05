@@ -1,5 +1,5 @@
 ---
-title: Ultimo Match<br/>Torelli vs Saviors (20 - 0)
+title: Ultimo Match<br/>Saviors vs Cinghiali del Setta (69 - 0)
 date: "2023-11-12"
 sharingLinks:
   - facebook
@@ -7,17 +7,17 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Torelli
+  - Cinghiali
 showDate: false
 showHeadingAnchors: false
 showHero: false
-weight: 2
+weight: 1
 ---
 
-| Giornata   | Data       | Casa                  | Ospiti                       | Orario | Indirizzo                 |
-| ---------- | ---------- | --------------------- | ---------------------------- | ------ | ------------------------- |
-| 2a Ritorno | 11/02/2024 | ASD Torelli Sudati RC | **Saviors Social Rugby ASD** | 13:30  | Via Sydney Sonnino 1 (PD) |
-
-![](./featured.jpg)
+| Giornata   | Data       | Casa                     | Ospiti                    | Orario | Indirizzo                       |
+| ---------- | ---------- | ------------------------ | ------------------------- | ------ | ------------------------------- |
+| 3a Ritorno | 03/03/2024 | **Saviors Social Rugby** | Cinghiali del Setta Rugby | 14:30  | Via Roversano 2815 (FC), Cesena |
 
 ![](./team.jpg)
+
+![](./featured.jpg)

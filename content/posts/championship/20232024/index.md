@@ -21,10 +21,10 @@ weight: 3
 |     | Team                         | Punti | G/V/P | Pt. fatti | Pt. subiti | Mt. fatte | Mt. subite | Pt. bonus | Diff Pt. |
 | --- | ---------------------------- | ----- | ----- | --------- | ---------- | --------- | ---------- | --------- | -------- |
 | 1   | **Saviors Social Rugby ASD** | 30    | 7/6/1 | 270       | 59         | 40        | 10         | 6         | 211      |
-| 2   | Putei Veci Rugby             | 21    | 6/5/1 | 111       | 58         | 15        | 7          | 1         | 53       |
-| 3   | ASD Torelli Sudati RC        | 14    | 7/3/4 | 74        | 131        | 12        | 20         | 2         | -57      |
-| 4   | La Tribù ASD                 | 11    | 6/2/4 | 110       | 113        | 15        | 16         | 3         | -3       |
-| 5   | Cinghiali del Setta Rugby    | 1     | 6/0/6 | 39        | 243        | 6         | 35         | 1         | -204     |
+| 2   | Putei Veci Rugby             | 25    | 7/6/1 | 119       | 63         | 16        | 8          | 1         | 56       |
+| 3   | La Tribù ASD                 | 15    | 7/3/4 | 123       | 119        | 16        | 16         | 3         | 4        |
+| 4   | ASD Torelli Sudati RC        | 15    | 8/3/5 | 80        | 144        | 12        | 21         | 3         | -64      |
+| 5   | Cinghiali del Setta Rugby    | 2     | 7/0/7 | 44        | 251        | 7         | 36         | 2         | -207     |
 
 ## Calendario - Girone D
 
@@ -44,6 +44,13 @@ weight: 3
 | 5a Ritorno | 07/04/2024 | Putei Veci Rugby             | **Saviors Social Rugby ASD** | 14:30  | Gesbury Park' Via Forte Gazzera 2, Mestre (VE)                          |
 
 ## Risultati - Girone D
+
+### 4a Giornata - Ritorno - 17/03/2024
+
+|                           | VS  |                  | Risultato | Mete |
+| ------------------------- | --- | ---------------- | --------- | ---- |
+| Cinghiali del Setta Rugby | VS  | Putei Veci rugby | 5-8       | 1-1  |
+| ASD Torelli Sudati RC     | VS  | La Tribù ASD     | 6-13      | 0-1  |
 
 ### 3a Giornata - Ritorno - 03/03/2024
 

@@ -16,15 +16,28 @@ showTableOfContents: true
 weight: 3
 ---
 
+# XIV Campionato Nazionale Rugby UISP
+
 ## Classifica - Girone D
 
 |     | Team                         | Punti | G/V/P | Pt. fatti | Pt. subiti | Mt. fatte | Mt. subite | Pt. bonus | Diff Pt. |
 | --- | ---------------------------- | ----- | ----- | --------- | ---------- | --------- | ---------- | --------- | -------- |
-| 1   | **Saviors Social Rugby ASD** | 30    | 7/6/1 | 270       | 59         | 40        | 10         | 6         | 211      |
-| 2   | Putei Veci Rugby             | 25    | 7/6/1 | 119       | 63         | 16        | 8          | 1         | 56       |
-| 3   | La Tribù ASD                 | 15    | 7/3/4 | 123       | 119        | 16        | 16         | 3         | 4        |
+| 1   | **Saviors Social Rugby ASD** | 31    | 8/6/2 | 279       | 70         | 40        | 11         | 6         | 209      |
+| 2   | Putei Veci Rugby             | 29    | 8/7/1 | 130       | 72         | 17        | 8          | 1         | 58       |
+| 3   | La Tribù ASD                 | 20    | 8/4/4 | 161       | 131        | 22        | 18         | 3         | 30       |
 | 4   | ASD Torelli Sudati RC        | 15    | 8/3/5 | 80        | 144        | 12        | 21         | 3         | -64      |
-| 5   | Cinghiali del Setta Rugby    | 2     | 7/0/7 | 44        | 251        | 7         | 36         | 2         | -207     |
+| 5   | Cinghiali del Setta Rugby    | 2     | 8/0/8 | 56        | 289        | 9         | 42         | 2         | -233     |
+
+## Play-OFF
+
+### Quarti di Finale - 21/04/2023
+
+|                              | VS  |                   | Risultato | Mete | Orario |
+| ---------------------------- | --- | ----------------- | --------- | ---- | ------ | -------------------------- |
+| Stella Rossa Rugby Milano    | VS  | A.S. Rugby Milano | -         | -    | 15:00  | Milano                     |
+| Rondoni Rugby ASD            | VS  | Putei Veci Rugby  | -         | -    | 15:00  | Robegano (VE)              |
+| Rugby Club Codorno           | VS  | LionSabres        | -         | -    | 15:00  | Codogno (LO)               |
+| **Saviors Social Rugby ASD** | VS  | Variegati Rugby   | -         | -    | 15:00  | Via Roversano 2815, Cesena |
 
 ## Calendario - Girone D
 
@@ -33,23 +46,30 @@ weight: 3
 | Giornata   | Data       | Casa                         | Ospiti                       | Orario | Indirizzo                                                               |
 | ---------- | ---------- | ---------------------------- | ---------------------------- | ------ | ----------------------------------------------------------------------- |
 | 1a Andata  | 15/10/2023 | La Tribù ASD                 | **Saviors Social Rugby ASD** | 15:00  | via Vicinale Rivalta 233, Casale sul Sile (TV)                          |
-| 2a Andata  | 29/10/2023 | **Saviors Social Rugby ASD** | ASD Torelli Sudati RC        | 14:30  | Via Roversano 2815 (FC)                                                 |
+| 2a Andata  | 29/10/2023 | **Saviors Social Rugby ASD** | ASD Torelli Sudati RC        | 14:30  | Via Roversano 2815, Cesena(FC)                                          |
 | 3a Andata  | 12/11/2023 | Cinghiali del Setta Rugby    | **Saviors Social Rugby ASD** | 14:30  | Via Romita, 2/7, 40128 (BO)                                             |
 | 4a Andata  | 26/11/2023 | **Saviors Social Rugby ASD** | RIPOSO                       | -      | -                                                                       |
-| 5a Andata  | 17/12/2023 | **Saviors Social Rugby ASD** | Putei Veci Rugby             | 14:30  | Via Roversano 2815 (FC)                                                 |
-| 1a Ritorno | 28/01/2024 | **Saviors Social Rugby ASD** | La Tribù ASD                 | 14:30  | Via Roversano 2815 (FC)                                                 |
+| 5a Andata  | 17/12/2023 | **Saviors Social Rugby ASD** | Putei Veci Rugby             | 14:30  | Via Roversano 2815, Cesena(FC)                                          |
+| 1a Ritorno | 28/01/2024 | **Saviors Social Rugby ASD** | La Tribù ASD                 | 14:30  | Via Roversano 2815, Cesena(FC)                                          |
 | 2a Ritorno | 11/02/2024 | ASD Torelli Sudati RC        | **Saviors Social Rugby ASD** | 14:30  | Via Sydney Sonnino 1, Padova oppure Via Jacopo Corrado, 4, 35128 Padova |
-| 3a Ritorno | 03/03/2024 | **Saviors Social Rugby ASD** | Cinghiali del Setta Rugby    | 14:30  | Via Roversano 2815 (FC)                                                 |
+| 3a Ritorno | 03/03/2024 | **Saviors Social Rugby ASD** | Cinghiali del Setta Rugby    | 14:30  | Via Roversano 2815, Cesena(FC)                                          |
 | 4a Ritorno | 17/03/2024 | **Saviors Social Rugby ASD** | RIPOSO                       | -      | -                                                                       |
 | 5a Ritorno | 07/04/2024 | Putei Veci Rugby             | **Saviors Social Rugby ASD** | 14:30  | Gesbury Park' Via Forte Gazzera 2, Mestre (VE)                          |
 
 ## Risultati - Girone D
 
+### 5a Giornata - Ritorno - 07/04/2024
+
+|                  | VS  |                           | Risultato | Mete |
+| ---------------- | --- | ------------------------- | --------- | ---- |
+| Putei Veci Rugby | VS  | Saviors Social Rugby      | 11-9      | 1-0  |
+| La Tribù ASD     | VS  | Cinghiali del Setta Rugby | 38-12     | 6-2  |
+
 ### 4a Giornata - Ritorno - 17/03/2024
 
 |                           | VS  |                  | Risultato | Mete |
 | ------------------------- | --- | ---------------- | --------- | ---- |
-| Cinghiali del Setta Rugby | VS  | Putei Veci rugby | 5-8       | 1-1  |
+| Cinghiali del Setta Rugby | VS  | Putei Veci Rugby | 5-8       | 1-1  |
 | ASD Torelli Sudati RC     | VS  | La Tribù ASD     | 6-13      | 0-1  |
 
 ### 3a Giornata - Ritorno - 03/03/2024

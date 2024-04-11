@@ -1,5 +1,5 @@
 ---
-title: Prossimo Match<br/>Putei Veci vs Saviors
+title: Prossimo Match<br/>Saviors vs Variegati
 date: "2023-11-12"
 sharingLinks:
   - facebook
@@ -14,9 +14,9 @@ showHero: false
 weight: 1
 ---
 
-| Giornata   | Data       | Casa             | Ospiti                       | Orario | Indirizzo                                      |
-| ---------- | ---------- | ---------------- | ---------------------------- | ------ | ---------------------------------------------- |
-| 5a Ritorno | 07/04/2024 | Putei Veci Rugby | **Saviors Social Rugby ASD** | 14:30  | Gesbury Park' Via Forte Gazzera 2, Mestre (VE) |
+| Giornata | Data       | Casa                         | Ospiti          | Orario | Indirizzo          |
+| -------- | ---------- | ---------------------------- | --------------- | ------ | ------------------ |
+| Quarto 4 | 21/04/2024 | **Saviors Social Rugby ASD** | Variegati Rugby | 15:30  | Via Roversano 2815 |
 
 ![](./team.jpg)
 

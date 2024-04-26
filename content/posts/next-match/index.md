@@ -1,5 +1,5 @@
 ---
-title: Prossimo Match<br/>Saviors vs Variegati
+title: Prossimo Match<br/>Saviors vs Codogno
 date: "2023-11-12"
 sharingLinks:
   - facebook
@@ -7,16 +7,16 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Putei
+  - Codogno
 showDate: false
 showHeadingAnchors: false
 showHero: false
 weight: 1
 ---
 
-| Giornata | Data       | Casa                         | Ospiti          | Orario | Indirizzo          |
-| -------- | ---------- | ---------------------------- | --------------- | ------ | ------------------ |
-| Quarto 4 | 21/04/2024 | **Saviors Social Rugby ASD** | Variegati Rugby | 15:30  | Via Roversano 2815 |
+| Giornata          | Data       | Casa                         | Ospiti             | Orario | Indirizzo                  |
+| ----------------- | ---------- | ---------------------------- | ------------------ | ------ | -------------------------- |
+| Semifinale Gold 1 | 05/05/2024 | **Saviors Social Rugby ASD** | Rugby Club Codogno | 15:00  | Via Roversano 2815, Cesena |
 
 ![](./team.jpg)
 

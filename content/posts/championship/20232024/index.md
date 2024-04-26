@@ -28,16 +28,44 @@ weight: 3
 | 4   | ASD Torelli Sudati RC        | 15    | 8/3/5 | 80        | 144        | 12        | 21         | 3         | -64      |
 | 5   | Cinghiali del Setta Rugby    | 2     | 8/0/8 | 56        | 289        | 9         | 42         | 2         | -233     |
 
-## Play-OFF
+## Finali
+
+### Semifinale Gold 2 - 19/05/2023
+
+|                           | VS  |                              | Risultato | Mete | Orario |
+| ------------------------- | --- | ---------------------------- | --------- | ---- | ------ | ------------ |
+| Stella Rossa Rugby Milano | VS  | Rondoni Rugby ASD            | -         | -    | 15:00  | Milano       |
+| Rugby Club Codogno        | VS  | **Saviors Social Rugby ASD** | -         | -    | 15:00  | Codogno (LO) |
+
+### Semifinale Bowl 2 - 19/05/2023
+
+|                  | VS  |                   | Risultato | Mete | Orario |
+| ---------------- | --- | ----------------- | --------- | ---- | ------ | ------------------------ |
+| Putei Veci Rugby | VS  | A.S. Rugby Milano | -         | -    | 15:00  | Mestre (VE)              |
+| Variegati Rugby  | VS  | LionSabres        | -         | -    | 15:00  | Castelfranco Veneto (VT) |
+
+### Semifinale Gold 1 - 05/05/2023
+
+|                              | VS  |                           | Risultato | Mete | Orario |
+| ---------------------------- | --- | ------------------------- | --------- | ---- | ------ | -------------------------- |
+| Rondoni Rugby ASD            | VS  | Stella Rossa Rugby Milano | -         | -    | 15:00  | Robegano (VE)              |
+| **Saviors Social Rugby ASD** | VS  | Rugby Club Codogno        | -         | -    | 15:00  | Via Roversano 2815, Cesena |
+
+### Semifinale Bowl 1 - 05/05/2023
+
+|                   | VS  |                  | Risultato | Mete | Orario |
+| ----------------- | --- | ---------------- | --------- | ---- | ------ | -------- |
+| A.S. Rugby Milano | VS  | Putei Veci Rugby | -         | -    | 15:00  | Milano   |
+| LionSabres        | VS  | Variegati Rugby  | -         | -    | 15:00  | Rho (MI) |
 
 ### Quarti di Finale - 21/04/2023
 
-|                              | VS  |                   | Risultato | Mete | Orario |
-| ---------------------------- | --- | ----------------- | --------- | ---- | ------ | -------------------------- |
-| Stella Rossa Rugby Milano    | VS  | A.S. Rugby Milano | -         | -    | 15:00  | Milano                     |
-| Rondoni Rugby ASD            | VS  | Putei Veci Rugby  | -         | -    | 15:00  | Robegano (VE)              |
-| Rugby Club Codorno           | VS  | LionSabres        | -         | -    | 15:00  | Codogno (LO)               |
-| **Saviors Social Rugby ASD** | VS  | Variegati Rugby   | -         | -    | 15:00  | Via Roversano 2815, Cesena |
+|                              | VS  |                   | Risultato | Mete  | Orario |
+| ---------------------------- | --- | ----------------- | --------- | ----- | ------ | -------------------------- |
+| Stella Rossa Rugby Milano    | VS  | A.S. Rugby Milano | 52 - 17   | 8 - 2 | 15:00  | Milano                     |
+| Rondoni Rugby ASD            | VS  | Putei Veci Rugby  | 14 - 10   | 2 - 1 | 15:00  | Robegano (VE)              |
+| Rugby Club Codogno           | VS  | LionSabres        | 54 - 17   | 7 - 2 | 15:00  | Codogno (LO)               |
+| **Saviors Social Rugby ASD** | VS  | Variegati Rugby   | 38 - 21   | 5 - 2 | 15:00  | Via Roversano 2815, Cesena |
 
 ## Calendario - Girone D
 

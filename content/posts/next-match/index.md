@@ -18,6 +18,6 @@ weight: 1
 | ----------------- | ---------- | ---------------------------- | ------------------ | ------ | -------------------------- |
 | Semifinale Gold 1 | 05/05/2024 | **Saviors Social Rugby ASD** | Rugby Club Codogno | 15:00  | Via Roversano 2815, Cesena |
 
-![](./team.jpg)
-
 ![](./featured.jpg)
+
+![](./team.jpg)

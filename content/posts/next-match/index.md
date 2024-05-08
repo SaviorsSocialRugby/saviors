@@ -1,5 +1,5 @@
 ---
-title: Prossimo Match<br/>Saviors vs Codogno
+title: Prossimo Match<br/>Codogno vs Saviors
 date: "2023-11-12"
 sharingLinks:
   - facebook
@@ -14,9 +14,9 @@ showHero: false
 weight: 1
 ---
 
-| Giornata          | Data       | Casa                         | Ospiti             | Orario | Indirizzo                  |
-| ----------------- | ---------- | ---------------------------- | ------------------ | ------ | -------------------------- |
-| Semifinale Gold 1 | 05/05/2024 | **Saviors Social Rugby ASD** | Rugby Club Codogno | 15:00  | Via Roversano 2815, Cesena |
+| Giornata          | Data       | Casa             | Ospiti                       | Orario | Indirizzo    |
+| ----------------- | ---------- | ---------------- | ---------------------------- | ------ | ------------ |
+| Semifinale Gold 2 | 19/05/2024 | Rugby Club Cogno | **Saviors Social Rugby ASD** | 15:00  | Codogno (LO) |
 
 ![](./featured.jpg)
 

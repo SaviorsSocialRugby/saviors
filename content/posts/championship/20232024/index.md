@@ -35,7 +35,7 @@ weight: 3
 |                           | VS  |                              | Risultato | Mete | Orario |
 | ------------------------- | --- | ---------------------------- | --------- | ---- | ------ | ------------ |
 | Stella Rossa Rugby Milano | VS  | Rondoni Rugby ASD            | -         | -    | 15:00  | Milano       |
-| Rugby Club Codogno        | VS  | **Saviors Social Rugby ASD** | -         | -    | 15:00  | Codogno (LO) |
+| Rugby Club Codogno        | VS  | **Saviors Social Rugby ASD** | 17        | 21   | 15:00  | Codogno (LO) |
 
 ### Semifinale Bowl 2 - 19/05/2023
 

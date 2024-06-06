@@ -21,21 +21,21 @@ highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = true
 
-[next_match]
+# [next_match]
+# home = "Saviors Social Rugby"
+# home_logo = "saviors.png"
+# visitors = "Stella Rossa Rugby Milano"
+# visitors_logo = "stellarossa.png"
+# result = "Finale Campionato UISP - TBD"
+# when_where = "Finale 1'/2' posto Campionato UISP 23/24 - 01/06/2024 18:10 @ Via Rivalta, Casale sul Sile (TV)"
+
+[last_match]
 home = "Saviors Social Rugby"
 home_logo = "saviors.png"
 visitors = "Stella Rossa Rugby Milano"
 visitors_logo = "stellarossa.png"
-result = "Finale Campionato UISP - TBD"
+result = "17 - 3"
 when_where = "Finale 1'/2' posto Campionato UISP 23/24 - 01/06/2024 18:10 @ Via Rivalta, Casale sul Sile (TV)"
-
-[last_match]
-visitors = "Saviors Social Rugby"
-visitors_logo = "saviors.png"
-home = "Rugby Club Codogno"
-home_logo = "codogno.png"
-result = "17 - 21"
-when_where = "Semifinale Gold 2 - Ritorno - 19/05/2024 15:00 @ Via Amedeo Duca D, Viale Duca A.D'Aosta, 26845 Codogno LO"
 
 [[sponsors]]
 name = "Legni per api"

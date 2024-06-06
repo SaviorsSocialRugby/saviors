@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Prossimo Match<br/>Finale UISP: Saviors vs Stella Rossa"
 date: "2023-11-12"
 sharingLinks:
@@ -12,6 +12,7 @@ showDate: false
 showHeadingAnchors: false
 showHero: false
 weight: 1
+hide: true
 ---
 
 | Giornata          | Data       | Casa                         | Ospiti                    | Orario | Indirizzo                         |
@@ -20,5 +21,5 @@ weight: 1
 
 ![](./featured.jpg)
 
-<!--
+
 ![](./team.jpg) -->

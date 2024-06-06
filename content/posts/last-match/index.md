@@ -1,5 +1,5 @@
 ---
-title: Ultimo Match<br/>Codogno vs Saviors (17 - 21)
+title: "Finale Campionato UISP:<br/>Saviors vs Stella Rossa (17 - 3)"
 date: "2023-11-12"
 sharingLinks:
   - facebook
@@ -7,17 +7,17 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Codogno
+  - StellaRossa
 showDate: false
 showHeadingAnchors: false
 showHero: false
 weight: 1
 ---
 
-| Giornata          | Data       | Casa               | Ospiti                       | Orario | Indirizzo     |
-| ----------------- | ---------- | ------------------ | ---------------------------- | ------ | ------------- |
-| Semifinale Gold 2 | 19/05/2024 | Rugby Club Codogno | **Saviors Social Rugby ASD** | 16:00  | Codogno, Lodi |
-
 ![](./featured.jpg)
+
+| Giornata          | Data       | Casa                         | Ospiti                    | Orario | Indirizzo                         |
+| ----------------- | ---------- | ---------------------------- | ------------------------- | ------ | --------------------------------- |
+| Final 1'/2' Posto | 01/06/2024 | **Saviors Social Rugby ASD** | Stella Rossa Rugby Milano | 18:10  | Via Rivalta, Casale sul Sile (TV) |
 
 ![](./team.jpg)

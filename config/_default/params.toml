@@ -38,13 +38,23 @@ result = "17 - 3"
 when_where = "Finale 1'/2' posto Campionato UISP 23/24 - 01/06/2024 18:10 @ Via Rivalta, Casale sul Sile (TV)"
 
 [[sponsors]]
-name = "Legni per api"
-site = "https://www.legniperapi.it"
-img = "sponsors/legniperapi.png"
+name = "Smart Security"
+img = "sponsors/smartsecurity.jpg"
+site = "https://www.smartsecurity.srl"
 
 [[sponsors]]
-name = "Miele Ligustica"
-img = "sponsors/valdomiele.png"
+name = "BCC Romagnolo"
+img = "sponsors/bcc.png"
+site = "https://www.bccromagnolo.it"
+
+# [[sponsors]]
+# name = "Legni per api"
+# site = "https://www.legniperapi.it"
+# img = "sponsors/legniperapi.png"
+
+# [[sponsors]]
+# name = "Miele Ligustica"
+# img = "sponsors/valdomiele.png"
 
 [[sponsors]]
 img = "sponsors/placeholder.png"

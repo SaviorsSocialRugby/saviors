@@ -42,21 +42,21 @@ parent = "Senior"
 pageRef = "posts/championship/20232024"
 weight = 20
 
-[[main]]
-name = "Under"
-pageRef = "posts/under"
-weight = 30
+# [[main]]
+# name = "Under"
+# pageRef = "posts/under"
+# weight = 30
 
 [[main]]
 name = "Old"
 pageRef = "posts/old"
 weight = 40
 
-[[main]]
-name = " Allenamenti"
-parent = "Under"
-pageRef = "training-under"
-weight = 10
+# [[main]]
+# name = " Allenamenti"
+# parent = "Under"
+# pageRef = "training-under"
+# weight = 10
 
 # [[main]]
 # name = " Calendario"

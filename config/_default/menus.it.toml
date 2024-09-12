@@ -125,17 +125,21 @@ weight = 103
 # weight = 20
 
 [[footer]]
-name = "Instagram"
+name = " Instagram"
 url = "https://www.instagram.com/saviors_social_rugby"
 
 [[footer]]
-name = "Whatsapp"
+name = " Whatsapp"
 url = "https://wa.me/+393297956230"
 
 [[footer]]
-name = "Facebook"
+name = " Facebook"
 url = "https://www.facebook.com/saviorssocialrugby"
 
 [[footer]]
-name = "E-mail"
+name = " E-mail"
 url = "mailto:info@saviorssocialrugby.it"
+
+[[footer]]
+name = "Codice di condotta"
+url = "/documents/codice_di_condotta.pdf"

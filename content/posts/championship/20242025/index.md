@@ -21,17 +21,19 @@ weight: 3
 
 ![](./featured.jpg)
 
-| Giornata   | Data       | Casa                     | Ospiti                   | Orario | Indirizzo                  |
-| ---------- | ---------- | ------------------------ | ------------------------ | ------ | -------------------------- |
-| 1a Andata  | 27/10/2024 | **Saviors Social Rugby** | Rugby Guastalla          | TBD    | Via Roversano 2815, Cesena |
-| 2a Andata  | 03/11/2024 | Rimini Rugby             | **Saviors Social Rugby** | TBD    |                            |
-| 3a Andata  | 17/11/2024 | **Saviors Social Rugby** | Modena Rugby             | TBD    | Via Roversano 2815, Cesena |
-| 4a Andata  | 08/12/2024 | **Saviors Social Rugby** | Rugby Noceto             | TBD    | Via Roversano 2815, Cesena |
-| 5a Andata  | 15/12/2024 | Valorugby Emilia         | **Saviors Social Rugby** | TBD    |                            |
-| 6a Andata  | 19/01/2024 |                          |                          | TBD    |                            |
-| 1a Ritorno | TBD        |                          |                          | TBD    |                            |
-| 2a Ritorno | TBD        |                          |                          | TBD    |                            |
-| 3a Ritorno | TBD        |                          |                          | TBD    |                            |
-| 4a Ritorno | TBD        |                          |                          | TBD    |                            |
-| 5a Ritorno | TBD        |                          |                          | TBD    |                            |
-| 6a Ritorno | TBD        |                          |                          | TBD    |                            |
+| Giornata   | Data       |
+| ---------- | ---------- |
+| 1a Andata  | 27/10/2024 |
+| 2a Andata  | 03/11/2024 |
+| 3a Andata  | 17/11/2024 |
+| 4a Andata  | 08/12/2024 |
+| 5a Andata  | 15/12/2024 |
+| 6a Andata  | 19/01/2025 |
+| 7a Andata  | 26/01/2025 |
+| 1a Ritorno | 16/02/2025 |
+| 2a Ritorno | 02/03/2025 |
+| 3a Ritorno | 09/03/2025 |
+| 4a Ritorno | 23/03/2025 |
+| 5a Ritorno | 06/04/2025 |
+| 6a Ritorno | 27/04/2025 |
+| 7a Ritorno | 04/05/2025 |

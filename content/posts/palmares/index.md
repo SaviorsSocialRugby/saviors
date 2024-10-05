@@ -17,6 +17,12 @@ weight: 5
 
 ![](./featured.jpg)
 
+## Campionato FIR Serie C
+
+| Stagione  | Classifica |
+| --------- | ---------- |
+| 2024/2025 | TBD        |
+
 ## Campionato italiano UISP
 
 | Stagione  | Classifica                                 |
@@ -27,4 +33,4 @@ weight: 5
 | 2020/2021 | Campionato interrotto a causa del Covid-19 |
 | 2021/2022 | 3° posto                                   |
 | 2022/2023 | 1° posto                                   |
-| 2023/2024 | 1° posto                       |
+| 2023/2024 | 1° posto                                   |

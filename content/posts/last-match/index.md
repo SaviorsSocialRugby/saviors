@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Finale Campionato UISP:<br/>Saviors vs Stella Rossa (17 - 3)"
 date: "2023-11-12"
 sharingLinks:
@@ -20,4 +20,4 @@ weight: 1
 | ----------------- | ---------- | ---------------------------- | ------------------------- | ------ | --------------------------------- |
 | Final 1'/2' Posto | 01/06/2024 | **Saviors Social Rugby ASD** | Stella Rossa Rugby Milano | 18:10  | Via Rivalta, Casale sul Sile (TV) |
 
-![](./team.jpg)
+![](./team.jpg) -->

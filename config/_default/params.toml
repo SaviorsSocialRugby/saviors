@@ -29,13 +29,13 @@ smartTOCHideUnfocusedChildren = true
 # result = "Finale Campionato UISP - TBD"
 # when_where = "Finale 1'/2' posto Campionato UISP 23/24 - 01/06/2024 18:10 @ Via Rivalta, Casale sul Sile (TV)"
 
-[last_match]
-home = "Saviors Social Rugby"
-home_logo = "saviors.png"
-visitors = "Stella Rossa Rugby Milano"
-visitors_logo = "stellarossa.png"
-result = "17 - 3"
-when_where = "Finale 1'/2' posto Campionato UISP 23/24 - 01/06/2024 18:10 @ Via Rivalta, Casale sul Sile (TV)"
+# [last_match]
+# home = "Saviors Social Rugby"
+# home_logo = "saviors.png"
+# visitors = "Stella Rossa Rugby Milano"
+# visitors_logo = "stellarossa.png"
+# result = "17 - 3"
+# when_where = "Finale 1'/2' posto Campionato UISP 23/24 - 01/06/2024 18:10 @ Via Rivalta, Casale sul Sile (TV)"
 
 [[sponsors]]
 name = "Smart Security"
@@ -75,7 +75,7 @@ layout = "page"                   # valid options: page, profile, hero, card, ba
 homepageImage = "images/logo.png" # used in: hero, and card
 showTitle = false
 showRecent = true
-showRecentItems = 8
+showRecentItems = 7
 showMoreLink = false
 showMoreLinkDest = "/posts"
 cardView = true

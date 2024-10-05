@@ -27,7 +27,7 @@ weight = 3
 
 [[main]]
 name = "Senior"
-pageRef = "posts/championship/20232024"
+pageRef = "posts/championship/20242025"
 weight = 30
 
 [[main]]
@@ -37,9 +37,15 @@ pageRef = "training"
 weight = 10
 
 [[main]]
+name = "Campionato 2024/2025"
+parent = "Senior"
+pageRef = "posts/championship/20242025"
+weight = 11
+
+[[main]]
 name = "Campionato 2023/2024"
 parent = "Senior"
-pageRef = "posts/championship/20232024"
+pageRef = "posts/archive/championship/20232024"
 weight = 20
 
 # [[main]]

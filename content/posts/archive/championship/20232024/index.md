@@ -1,6 +1,6 @@
 ---
-title: Campionato UISP 2024/2024
-date: "1990-08-04"
+title: Campionato UISP 2023/2024
+date: "1890-08-04"
 showDate: false
 sharingLinks:
   - facebook
@@ -9,11 +9,11 @@ sharingLinks:
 tags:
   - Saviors
   - calendario
-  - 2024/2024
+  - 2023/2024
 showHeadingAnchors: false
 showHero: false
 showTableOfContents: true
-weight: 3
+weight: 0
 ---
 
 # XIV Campionato Nazionale Rugby UISP

@@ -1,5 +1,5 @@
-<!-- ---
-title: "Prossimo Match<br/>Finale UISP: Saviors vs Stella Rossa"
+---
+title: "Prossimo Match:<br/>Modena Rugby vs Saviors Social Rugby"
 date: "2023-11-12"
 sharingLinks:
   - facebook
@@ -7,7 +7,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Stella Rossa
+  - Modena
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -15,11 +15,10 @@ weight: 1
 hide: true
 ---
 
-| Giornata          | Data       | Casa                         | Ospiti                    | Orario | Indirizzo                         |
-| ----------------- | ---------- | ---------------------------- | ------------------------- | ------ | --------------------------------- |
-| Final 1'/2' Posto | 01/06/2024 | **Saviors Social Rugby ASD** | Stella Rossa Rugby Milano | 18:10  | Via Rivalta, Casale sul Sile (TV) |
+| Giornata  | Data       | Orario | Casa                    | Ospiti                       | Indirizzo               |
+| --------- | ---------- | ------ | ----------------------- | ---------------------------- | ----------------------- |
+| 1ᵃ Andata | 27/10/2024 | 14:30  | Modena Rugby 1965 nr. 2 | **Saviors Social Rugby ASD** | Campo Comunale - Modena |
 
 ![](./featured.jpg)
 
-
-![](./team.jpg) -->
+<!-- ![](./team.jpg) -->

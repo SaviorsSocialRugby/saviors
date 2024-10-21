@@ -12,7 +12,7 @@ tags:
 showDate: false
 showHeadingAnchors: false
 showHero: false
-weight: 1
+weight: 2
 hide: true
 ---
 

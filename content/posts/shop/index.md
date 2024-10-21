@@ -12,7 +12,7 @@ tags:
 showHeadingAnchors: false
 showHero: false
 showTableOfContents: true
-weight: 2
+weight: 3
 ---
 
 Acquista il merchandising ufficiale Macron x Savior dal nostro shop: https://clubshop.macron.com/ravenna/saviors-social-rugby-cesena

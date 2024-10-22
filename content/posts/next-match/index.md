@@ -15,9 +15,9 @@ weight: 1
 hide: true
 ---
 
-| Giornata  | Data       | Orario | Casa                    | Ospiti                       | Indirizzo               |
-| --------- | ---------- | ------ | ----------------------- | ---------------------------- | ----------------------- |
-| 1ᵃ Andata | 27/10/2024 | 14:30  | Modena Rugby 1965 nr. 2 | **Saviors Social Rugby ASD** | Campo Comunale - Modena |
+| Giornata  | Data       | Orario | Casa                    | Ospiti                       | Indirizzo                      |
+| --------- | ---------- | ------ | ----------------------- | ---------------------------- | ------------------------------ |
+| 1ᵃ Andata | 27/10/2024 | 14:30  | Modena Rugby 1965 nr. 2 | **Saviors Social Rugby ASD** | Str. Collegarola 80/B - Modena |
 
 ![](./featured.jpg)
 

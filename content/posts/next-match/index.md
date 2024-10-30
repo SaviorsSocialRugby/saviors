@@ -1,6 +1,6 @@
 ---
-title: "Prossimo Match:<br/>Modena Rugby vs Saviors Social Rugby"
-date: "2023-11-12"
+title: "Prossimo Match:<br/>Guastalla 2008 vs Saviors Social Rugby"
+date: "2023-11-17"
 sharingLinks:
   - facebook
   - whatsapp
@@ -15,10 +15,10 @@ weight: 1
 hide: true
 ---
 
-| Giornata  | Data       | Orario | Casa                    | Ospiti                       | Indirizzo                      |
-| --------- | ---------- | ------ | ----------------------- | ---------------------------- | ------------------------------ |
-| 1ᵃ Andata | 27/10/2024 | 14:30  | Modena Rugby 1965 nr. 2 | **Saviors Social Rugby ASD** | Str. Collegarola 80/B - Modena |
+| Giornata  | Data       | Orario | Casa                 | Ospiti                       | Indirizzo             |
+| --------- | ---------- | ------ | -------------------- | ---------------------------- | --------------------- |
+| 3ᵃ Andata | 17/11/2024 | 14:30  | Rugby Guastalla 2008 | **Saviors Social Rugby ASD** | Ferrarini - Guastalla |
 
-![](./featured.jpg)
+<!-- ![](./featured.jpg) -->
 
 <!-- ![](./team.jpg) -->

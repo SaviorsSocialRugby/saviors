@@ -22,20 +22,20 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = true
 
 [next_match]
+home = "Saviors Social Rugby"
+home_logo = "saviors.png"
+visitors = "Rugby Colorno 1975 nr.3"
+visitors_logo = "colorno.png"
+result = "TBD"
+when_where = "4ᵃ Andata Campionato FIR Serie C Regionale 2024/2025 - 08/12/2024 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+
+[last_match]
 home = "Rugby Guastalla 2007"
 home_logo = "guastalla.png"
 visitors = "Saviors Social Rugby"
 visitors_logo = "saviors.png"
-result = "TBD"
+result = "7 - 29"
 when_where = "3ᵃ Andata Campionato FIR Serie C Regionale 2024/2025 - 17/11/2024 14:30 @ Ferrarini, Guastalla"
-
-[last_match]
-home = "Modena Rugby 1965 nr. 2"
-home_logo = "modenarugby.png"
-visitors = "Saviors Social Rugby"
-visitors_logo = "saviors.png"
-result = "29 - 14"
-when_where = "1ᵃ Andata Campionato FIR Serie C Regionale 2024/2025 - 27/10/2024 14:30 @ Via Rivalta, Campo Comunale - Modena"
 
 [[sponsors]]
 name = "Smart Security"

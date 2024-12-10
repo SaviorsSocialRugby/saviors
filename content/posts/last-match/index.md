@@ -1,13 +1,13 @@
 ---
-title: "Ultimo Match:<br/>Guastalla 2008 vs Saviors Social Rugby (7 - 29)"
-date: "2024-11-17"
+title: "Ultimo Match:<br/>Saviors Social Rugby vs Rugby Colorno 1975 (22 - 18)"
+date: "2024-12-08"
 sharingLinks:
   - facebook
   - whatsapp
   - telegram
 tags:
   - Saviors
-  - Guastalla
+  - Colorno
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -15,9 +15,9 @@ weight: 2
 hide: true
 ---
 
-| Giornata  | Data       | Orario | Casa                 | Ospiti                       | Indirizzo             |
-| --------- | ---------- | ------ | -------------------- | ---------------------------- | --------------------- |
-| 3ᵃ Andata | 17/11/2024 | 14:30  | Rugby Guastalla 2008 | **Saviors Social Rugby ASD** | Ferrarini - Guastalla |
+| Giornata  | Data       | Orario | Casa                         | Ospiti                  | Indirizzo                               |
+| --------- | ---------- | ------ | ---------------------------- | ----------------------- | --------------------------------------- |
+| 4ᵃ Andata | 08/12/2024 | 14:30  | **Saviors Social Rugby ASD** | Rugby Colorno 1975 nr.3 | Via Roversano 2815, 47522 - Cesena (FC) |
 
 ![](./featured.jpg)
 

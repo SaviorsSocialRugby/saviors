@@ -22,20 +22,20 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = true
 
 [next_match]
-home = "Saviors Social Rugby"
-home_logo = "saviors.png"
-visitors = "Bologna Rugby Club"
-visitors_logo = "bologna.png"
+home = "ASD Rimini Rugby"
+home_logo = "rimini.png"
+visitors = "Saviors Social Rugby"
+visitors_logo = "saviors.png"
 result = "TBD"
-when_where = "5ᵃ Andata Campionato FIR Serie C Regionale 2024/2025 - 15/12/2024 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+when_where = "6ᵃ Andata Campionato FIR Serie C Regionale 2024/2025 - 19/01/2025 14:30 @ Campo Rivabella - Rimini"
 
 [last_match]
 home = "Saviors Social Rugby"
 home_logo = "saviors.png"
-visitors = "Rugby Colorno 1975 nr.3"
-visitors_logo = "colorno.png"
-result = "22 - 18"
-when_where = "4ᵃ Andata Campionato FIR Serie C Regionale 2024/2025 - 08/12/2024 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+visitors = "Bologna Rugby Club"
+visitors_logo = "bologna.png"
+result = "55 - 19"
+when_where = "5ᵃ Andata Campionato FIR Serie C Regionale 2024/2025 - 15/12/2024 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
 
 [[sponsors]]
 name = "Smart Security"

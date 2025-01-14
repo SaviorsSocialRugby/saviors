@@ -37,10 +37,10 @@ visitors_logo = "bologna.png"
 result = "55 - 19"
 when_where = "5ᵃ Andata Campionato FIR Serie C Regionale 2024/2025 - 15/12/2024 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
 
-[[sponsors]]
-name = "Smart Security"
-img = "sponsors/smartsecurity.jpg"
-site = "https://www.smartsecurity.srl"
+#[[sponsors]]
+#name = "Smart Security"
+#img = "sponsors/smartsecurity.jpg"
+#site = "https://www.smartsecurity.srl"
 
 [[sponsors]]
 name = "BCC Romagnolo"

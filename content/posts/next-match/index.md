@@ -19,6 +19,6 @@ hide: true
 | --------- | ---------- | ------ | ---------------- | ---------------------------- | ------------------------ |
 | 6ᵃ Andata | 19/01/2025 | 14:30  | ASD Rimini Rugby | **Saviors Social Rugby ASD** | Campo Rivabella - Rimini |
 
-<!-- ![](./featured.jpg)
+![](./featured.jpg)
 
-![](./team.jpg) -->
+<!-- ![](./team.jpg) -->

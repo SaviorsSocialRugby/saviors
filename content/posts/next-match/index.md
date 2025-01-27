@@ -1,5 +1,5 @@
 ---
-title: "Prossimo Match:<br/>ASD Rimini Rugby vs Saviors Social Rugby"
+title: "Prossimo Match:<br/>Saviors Social Rugby vs Modena Rugby"
 date: "2024-12-08"
 sharingLinks:
   - facebook
@@ -7,7 +7,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Rimini
+  - Modena
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -15,10 +15,10 @@ weight: 1
 hide: true
 ---
 
-| Giornata  | Data       | Orario | Casa             | Ospiti                       | Indirizzo                |
-| --------- | ---------- | ------ | ---------------- | ---------------------------- | ------------------------ |
-| 6ᵃ Andata | 19/01/2025 | 14:30  | ASD Rimini Rugby | **Saviors Social Rugby ASD** | Campo Rivabella - Rimini |
+| Giornata   | Data       | Orario | Casa                         | Ospiti                  | Indirizzo                               |
+| ---------- | ---------- | ------ | ---------------------------- | ----------------------- | --------------------------------------- |
+| 1ᵃ Ritorno | 16/02/2025 | 14:30  | **Saviors Social Rugby ASD** | Modena Rugby 1965 nr. 2 | Via Roversano 2815, 47522 - Cesena (FC) |
 
-![](./featured.jpg)
+<!-- ![](./featured.jpg) -->
 
 <!-- ![](./team.jpg) -->

@@ -24,18 +24,18 @@ smartTOCHideUnfocusedChildren = true
 [next_match]
 home = "Saviors Social Rugby"
 home_logo = "saviors.png"
+visitors = "Rugby Guastalla 2008"
+visitors_logo = "guastalla.png"
+result = "TBD"
+when_where = "3ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 09/03/2025 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+
+[last_match]
+home = "Saviors Social Rugby"
+home_logo = "saviors.png"
 visitors = "Modena Rugby 1965 nr. 2"
 visitors_logo = "modenarugby.png"
 result = "31 - 16"
 when_where = "1ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 16/02/2025 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
-
-[last_match]
-home = "Ravenna RFC"
-home_logo = "ravenna.png"
-visitors = "Saviors Social Rugby"
-visitors_logo = "saviors.png"
-result = "17 - 20"
-when_where = "6ᵃ Andata Campionato FIR Serie C Regionale 2024/2025 - 26/01/2025 14:30 @ Ravenna Rugby (RA)"
 
 #[[sponsors]]
 #name = "Smart Security"

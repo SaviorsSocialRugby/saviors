@@ -1,24 +1,24 @@
 ---
-title: "Ultimo Match:<br/>Ravenna RFC vs Saviors Social Rugby (17 - 20)"
-date: "2025-01-26"
+title: "Ultimo Match:<br/>Saviors Social Rugby vs Modena Rugby (31 - 16)"
+date: "2024-12-08"
 sharingLinks:
   - facebook
   - whatsapp
   - telegram
 tags:
   - Saviors
-  - Ravenna
+  - Modena
 showDate: false
 showHeadingAnchors: false
 showHero: false
-weight: 2
+weight: 1
 hide: true
 ---
 
-| Giornata  | Data       | Orario | Casa        | Ospiti                       | Indirizzo          |
-| --------- | ---------- | ------ | ----------- | ---------------------------- | ------------------ |
-| 6ᵃ Andata | 26/01/2025 | 14:30  | Ravenna RFC | **Saviors Social Rugby ASD** | Ravenna Rugby (RA) |
+![](./team.jpg)
+
+| Giornata   | Data       | Orario | Casa                         | Ospiti                  | Indirizzo                               |
+| ---------- | ---------- | ------ | ---------------------------- | ----------------------- | --------------------------------------- |
+| 1ᵃ Ritorno | 16/02/2025 | 14:30  | **Saviors Social Rugby ASD** | Modena Rugby 1965 nr. 2 | Via Roversano 2815, 47522 - Cesena (FC) |
 
 ![](./featured.jpg)
-
-![](./team.jpg)

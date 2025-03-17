@@ -1,5 +1,5 @@
 ---
-title: "Ultimo Match:<br/>Saviors Social Rugby vs Modena Rugby (31 - 16)"
+title: "Ultimo Match:<br/>Saviors Social Rugby vs Guastalla 2008 (13 - 10)"
 date: "2024-12-08"
 sharingLinks:
   - facebook
@@ -7,7 +7,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Modena
+  - Guastalla
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -17,8 +17,8 @@ hide: true
 
 ![](./team.jpg)
 
-| Giornata   | Data       | Orario | Casa                         | Ospiti                  | Indirizzo                               |
-| ---------- | ---------- | ------ | ---------------------------- | ----------------------- | --------------------------------------- |
-| 1ᵃ Ritorno | 16/02/2025 | 14:30  | **Saviors Social Rugby ASD** | Modena Rugby 1965 nr. 2 | Via Roversano 2815, 47522 - Cesena (FC) |
+| Giornata   | Data       | Orario | Casa                         | Ospiti               | Indirizzo                               |
+| ---------- | ---------- | ------ | ---------------------------- | -------------------- | --------------------------------------- |
+| 3ᵃ Ritorno | 09/03/2025 | 14:30  | **Saviors Social Rugby ASD** | Rugby Guastalla 2008 | Via Roversano 2815, 47522 - Cesena (FC) |
 
 ![](./featured.jpg)

@@ -23,10 +23,10 @@ weight: 7
 ### Consiglieri
 
 - **Adriano Barzanti** - Segretario
-- **Simone Cossu** - Referente Prima Squadra
+- **Luca Molari** - Referente Prima Squadra
 - **Raffaello Gardini** - Direttore Tecnico
 - **Massimo Magnani** - Referente Club House
-- **Davide Valdinoci** - Referente Giovanili
+<!-- - **Davide Valdinoci** - Referente Giovanili -->
 
 ## Settore Tecnico
 
@@ -35,10 +35,10 @@ weight: 7
 - **Manuele Cossu** - Allenatore Attacco e Skills
 - **Emanuele Gollinucci** - Preparatore Atletico
 
-## Settore Giovanile
+<!-- ## Settore Giovanile
 
 - **Davide Valdinoci** - Referente e Allenatore
-- **Pietro Magnani** - Allenatore Under14
+- **Pietro Magnani** - Allenatore Under14 -->
 
 ## Attività Old
 

@@ -15,10 +15,10 @@ weight: 1
 hide: true
 ---
 
-![](./team.jpg)
+![](./featured.jpg)
 
 | Giornata   | Data       | Orario | Casa                         | Ospiti               | Indirizzo                               |
 | ---------- | ---------- | ------ | ---------------------------- | -------------------- | --------------------------------------- |
 | 3ᵃ Ritorno | 09/03/2025 | 14:30  | **Saviors Social Rugby ASD** | Rugby Guastalla 2008 | Via Roversano 2815, 47522 - Cesena (FC) |
 
-![](./featured.jpg)
+![](./team.jpg)

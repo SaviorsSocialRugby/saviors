@@ -22,20 +22,20 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = true
 
 [next_match]
+home = "Rugby Colorno 1975 nr.3"
+home_logo = "colorno.png"
+visitors = "Saviors Social Rugby"
+visitors_logo = "saviors.png"
+result = "TBD"
+when_where = "(Recupero) 4ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 06/04/2025 13:00 @ Stadio Gino Maini, Colorno (PR)"
+
+[last_match]
 home = "Bologna Rugby Club"
 home_logo = "bologna.png"
 visitors = "Saviors Social Rugby"
 visitors_logo = "saviors.png"
-result = "TBD"
-when_where = "5ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 06/04/2025 15:30 @ Bonori - Bologna"
-
-[last_match]
-home = "Saviors Social Rugby"
-home_logo = "saviors.png"
-visitors = "Rugby Guastalla 2008"
-visitors_logo = "guastalla.png"
-result = "13 - 10"
-when_where = "3ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 09/03/2025 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+result = "29 - 13"
+when_where = "5ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 06/04/2025 13:00 @ Bonori - Bologna"
 
 #[[sponsors]]
 #name = "Smart Security"

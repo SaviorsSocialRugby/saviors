@@ -1,5 +1,5 @@
 ---
-title: "Ultimo Match:<br/>Saviors Social Rugby vs Guastalla 2008 (13 - 10)"
+title: "Ultimo Match:<br/>Bologna Rugby Club vs Saviors Social Rugby (29 - 13)"
 date: "2024-12-08"
 sharingLinks:
   - facebook
@@ -7,7 +7,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Guastalla
+  - Bologna
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -17,8 +17,8 @@ hide: true
 
 ![](./featured.jpg)
 
-| Giornata   | Data       | Orario | Casa                         | Ospiti               | Indirizzo                               |
-| ---------- | ---------- | ------ | ---------------------------- | -------------------- | --------------------------------------- |
-| 3ᵃ Ritorno | 09/03/2025 | 14:30  | **Saviors Social Rugby ASD** | Rugby Guastalla 2008 | Via Roversano 2815, 47522 - Cesena (FC) |
+| Giornata   | Data       | Orario | Casa               | Ospiti                       | Indirizzo        |
+| ---------- | ---------- | ------ | ------------------ | ---------------------------- | ---------------- |
+| 5ᵃ Ritorno | 06/04/2025 | 13:00  | Bologna Rugby Club | **Saviors Social Rugby ASD** | Bonori - Bologna |
 
 ![](./team.jpg)

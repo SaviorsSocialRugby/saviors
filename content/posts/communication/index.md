@@ -14,6 +14,6 @@ showHero: false
 weight: 40
 ---
 
-- [18 Aprile 2025](./20250418/)
+- [18 Aprile 2025](/posts/communication/20250418/)
 
 <center><img src="featured.jpg" width="50%"></center>

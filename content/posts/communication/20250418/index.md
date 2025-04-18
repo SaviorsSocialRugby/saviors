@@ -11,8 +11,10 @@ tags:
 showHeadingAnchors: false
 showTaxonomies: false
 showHero: false
-weight: 40
+weight: 4
 ---
+
+<center><img src="featured.jpg" width="50%"></center>
 
 In conseguenza alla risonanza mediatica e alle numerose reazioni seguite a quanto accaduto domenica scorsa, riteniamo doveroso chiarire la nostra posizione, senza tuttavia voler controbattere oltre, né alimentare ulteriori polemiche.
 <br/>Lasciamo infatti la massima libertà di giudizio e interpretazione a chi legge, senza muovere accuse o recriminazioni.

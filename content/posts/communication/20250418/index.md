@@ -16,7 +16,7 @@ weight: 4
 
 <center><img src="featured.jpg" width="50%"></center>
 
-In conseguenza alla risonanza mediatica e alle numerose reazioni seguite a quanto accaduto domenica scorsa, riteniamo doveroso chiarire la nostra posizione, senza tuttavia voler controbattere oltre, né alimentare ulteriori polemiche.
+In conseguenza alla risonanza mediatica e alle numerose reazioni seguite a quanto accaduto domenica scorsa (13 Aprile 2025), riteniamo doveroso chiarire la nostra posizione, senza tuttavia voler controbattere oltre, né alimentare ulteriori polemiche.
 <br/>Lasciamo infatti la massima libertà di giudizio e interpretazione a chi legge, senza muovere accuse o recriminazioni.
 
 Premettiamo che, fino ad oggi, ci siamo astenuti da comunicazioni formali in attesa dell'omologazione ufficiale della gara, che invitiamo a consultare.

@@ -1,5 +1,5 @@
 ---
-title: "Prossimo Match:<br/>Rugby Colorno vs Saviors Social Rugby"
+title: "Prossimo Match:<br/>Saviors Social Rugby vs ASD Rimini Rugby"
 date: "2024-12-08"
 sharingLinks:
   - facebook
@@ -7,7 +7,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Colorno
+  - Rimini
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -17,8 +17,8 @@ hide: true
 
 <!-- ![](./team.jpg) -->
 
-| Giornata              | Data       | Orario | Casa                    | Ospiti                       | Indirizzo              |
-| --------------------- | ---------- | ------ | ----------------------- | ---------------------------- | ---------------------- |
-| 4ᵃ Ritorno (Recupero) | 23/03/2025 | 14:30  | Rugby Colorno 1975 nr.3 | **Saviors Social Rugby ASD** | Campo Pavesi - Colorno |
+| Giornata   | Data       | Orario | Casa                         | Ospiti           | Indirizzo                               |
+| ---------- | ---------- | ------ | ---------------------------- | ---------------- | --------------------------------------- |
+| 6ᵃ Ritorno | 27/04/2025 | 15:30  | **Saviors Social Rugby ASD** | ASD Rimini Rugby | Via Roversano 2815, 47522 - Cesena (FC) |
 
-![](./featured.jpg)
+<!-- ![](./featured.jpg) -->

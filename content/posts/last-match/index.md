@@ -1,5 +1,5 @@
 ---
-title: "Ultimo Match:<br/>Bologna Rugby Club vs Saviors Social Rugby (29 - 13)"
+title: "Ultimo Match:<br/>Rugby Colorno vs Saviors Social Rugby (0 - 28)"
 date: "2024-12-08"
 sharingLinks:
   - facebook
@@ -7,7 +7,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Bologna
+  - Colorno
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -17,8 +17,8 @@ hide: true
 
 ![](./featured.jpg)
 
-| Giornata   | Data       | Orario | Casa               | Ospiti                       | Indirizzo        |
-| ---------- | ---------- | ------ | ------------------ | ---------------------------- | ---------------- |
-| 5ᵃ Ritorno | 06/04/2025 | 13:00  | Bologna Rugby Club | **Saviors Social Rugby ASD** | Bonori - Bologna |
+| Giornata              | Data       | Orario | Casa                    | Ospiti                       | Indirizzo                   |
+| --------------------- | ---------- | ------ | ----------------------- | ---------------------------- | --------------------------- |
+| 4ᵃ Ritorno (Recupero) | 13/04/2025 | 13:00  | Rugby Colorno 1975 nr.3 | **Saviors Social Rugby ASD** | Stadio Gino Maini - Colorno |
 
 ![](./team.jpg)

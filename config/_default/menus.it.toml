@@ -85,10 +85,10 @@ name = "Contatti"
 pageRef = "contact"
 weight = 100
 
-[[main]]
-name = "Comunicati Stampa"
-pageRef = "posts/communication"
-weight = 100
+# [[main]]
+# name = "Comunicati Stampa"
+# pageRef = "posts/communication"
+# weight = 100
 
 [[main]]
 identifier = "instagram"

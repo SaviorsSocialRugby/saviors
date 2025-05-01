@@ -24,18 +24,18 @@ smartTOCHideUnfocusedChildren = true
 [next_match]
 home = "Saviors Social Rugby"
 home_logo = "saviors.png"
-visitors = "ASD Rimini Rugby"
-visitors_logo = "rimini.png"
+visitors = "Ravenna Rugby FC"
+visitors_logo = "ravenna.png"
 result = "TBD"
-when_where = "6ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 27/04/2025 15:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 04/05/2025 15:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
 
 [last_match]
-home = "Rugby Colorno 1975 nr.3"
-home_logo = "colorno.png"
-visitors = "Saviors Social Rugby"
-visitors_logo = "saviors.png"
+home = "Saviors Social Rugby"
+home_logo = "saviors.png"
+visitors = "ASD Rimini Rugby"
+visitors_logo = "rimini.png"
 result = "0 - 28"
-when_where = "(Recupero) 4ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 13/04/2025 13:00 @ Stadio Gino Maini, Colorno (PR)"
+when_where = "6ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 27/04/2025 15:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
 
 #[[sponsors]]
 #name = "Smart Security"

@@ -21,13 +21,13 @@ weight: 3
 
 |     | Team                         | Punti | G/V/P/S  | Pt. fatti | Pt. subiti | Mt. fatte | Diff Pt. |
 | --- | ---------------------------- | ----- | -------- | --------- | ---------- | --------- | -------- |
-| 1   | **Saviors Social Rugby ASD** | 37    | 10/8/0/2 | 275       | 150        | 33        | 125      |
-| 2   | Ravenna Rugby FC             | 34    | 10/6/1/3 | 278       | 168        | 41        | 110      |
-| 3   | Bologna Rugby Club           | 30    | 10/6/1/3 | 206       | 205        | 27        | 1        |
-| 4   | Modena Rugby 1965            | 29    | 10/5/1/4 | 255       | 178        | 37        | 77       |
-| 5   | Rugby Colorno 1975           | 20    | 11/4/1/6 | 236       | 224        | 34        | 12       |
-| 6   | Rugby Guastalla 2008         | 17    | 11/3/0/8 | 169       | 303        | 22        | -134     |
-| 7   | ASD Rugby Rimini             | 13    | 10/2/0/8 | 141       | 332        | 19        | -191     |
+| 1   | **Saviors Social Rugby ASD** | 42    | 11/9/0/2 | 303       | 150        | 37        | 153      |
+| 2   | Ravenna Rugby FC             | 38    | 11/7/1/3 | 298       | 178        | 44        | 120      |
+| 3   | Bologna Rugby Club           | 31    | 11/6/1/4 | 216       | 220        | 28        | -4       |
+| 4   | Modena Rugby 1965            | 29    | 11/5/1/5 | 265       | 198        | 39        | 67       |
+| 5   | Rugby Guastalla 2008         | 21    | 12/4/0/8 | 184       | 313        | 24        | -129     |
+| 6   | Rugby Colorno 1975           | 20    | 11/4/1/6 | 236       | 224        | 34        | 12       |
+| 7   | ASD Rugby Rimini             | 9     | 11/2/0/9 | 141       | 360        | 19        | -219     |
 
 ## Calendario
 

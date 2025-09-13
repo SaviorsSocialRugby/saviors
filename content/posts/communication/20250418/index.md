@@ -11,7 +11,7 @@ tags:
 showHeadingAnchors: false
 showTaxonomies: false
 showHero: false
-weight: 4
+weight: 40
 ---
 
 <center><img src="featured.jpg" width="50%"></center>

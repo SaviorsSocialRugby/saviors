@@ -29,13 +29,13 @@ smartTOCHideUnfocusedChildren = true
 # result = "TBD"
 # when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 04/05/2025 15:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
 
-[last_match]
-home = "Saviors Social Rugby"
-home_logo = "saviors.png"
-visitors = "Ravenna Rugby FC"
-visitors_logo = "ravenna.png"
-result = "26 - 29"
-when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 04/05/2025 15:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+# [last_match]
+# home = "Saviors Social Rugby"
+# home_logo = "saviors.png"
+# visitors = "Ravenna Rugby FC"
+# visitors_logo = "ravenna.png"
+# result = "26 - 29"
+# when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 04/05/2025 15:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
 
 #[[sponsors]]
 #name = "Smart Security"

@@ -16,6 +16,9 @@ buildFuture = false
 
 googleAnalytics = "G-194Q1QGHDW"
 
+[build]
+writeStats = true
+
 [pagination]
 pagerSize = 10
 

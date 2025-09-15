@@ -8,18 +8,35 @@
 colorScheme = "blowfish"
 defaultAppearance = "dark"   # valid options: light or dark
 autoSwitchAppearance = false
+
+enableA11y = false
 enableSearch = true
 enableCodeCopy = false
-disableImageZoom = true
+
+replyByEmail = false
+
 # mainSections = ["section1", "section2"]
 # robots = ""
 homePageVideo = "videos/video.mp4"
+
+disableImageZoom = true
 disableImageOptimization = true
+disableTextInHeader = true
+disableImageOptimizationMD = true
+# backgroundImageWidth = 1200
+
 defaultBackgroundImage = "images/logo.png"   # used as default for background images 
 defaultFeaturedImage = "images/featured.jpg" # used as default for featured images in all articles
+# defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
+
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = true
+
+fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384", "sha256"
+
+giteaDefaultServer = "https://git.fsfe.org"
+forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 # [next_match]
 # home = "Saviors Social Rugby"
@@ -86,6 +103,7 @@ layoutBackgroundBlur = false      # only used when layout equals background
 showDate = true
 showViews = false
 showLikes = false
+showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
 showHero = true
@@ -105,10 +123,12 @@ showReadingTime = false
 showTableOfContents = false
 # showRelatedContent = false
 # relatedContentLimit = 3
+showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
 showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = false
 # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+showZenMode = false
 
 [list]
 showHero = false

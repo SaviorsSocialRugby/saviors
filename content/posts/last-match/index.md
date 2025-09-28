@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Ultimo Match:<br/>Saviors Social Rugby vs Ravenna Rugby (26 - 29)"
 date: "2024-12-08"
 sharingLinks:
@@ -46,4 +46,4 @@ FORZA SAVIORS SEMPRE 💚🐐🖤
 | ---------- | ---------- | ------ | ---------------------------- | ---------------- | --------------------------------------- |
 | 7ᵃ Ritorno | 04/05/2025 | 15:30  | **Saviors Social Rugby ASD** | Ravenna Rugby FC | Via Roversano 2815, 47522 - Cesena (FC) |
 
-![](./team.jpg)
+![](./team.jpg) -->

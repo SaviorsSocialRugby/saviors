@@ -50,22 +50,53 @@ In funzione del gradimento che il rugby riceverà si considera, come obiettivo a
 
 #### Con il patrocinio dei comuni
 
-<div align="center">
-    <table>
-    <tr>
-        <td align="center"><img src="./cesena.png" width="70"><br><b>Cesena</b></td>
-        <td align="center"><img src="./mercato-saraceno.png" width="70"><br><b>Mercato Saraceno</b></td>
-        <td align="center"><img src="./sarsina.png" width="70"><br><b>Sarsina</b></td>
-        <td align="center"><img src="./bagno-di-romagna.png" width="70"><br><b>Bagno di Romagna</b></td>
-        <td align="center"><img src="./verghereto.png" width="70"><br><b>Verghereto</b></td>
-    </tr>
-    </table>
+<style>
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  align-items: flex-end;  /* allinea il testo in basso */
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  min-height: 160px;      /* imposta un'altezza fissa uguale per tutti */
+}
+.item img {
+  width: 70px;
+  margin-bottom: 6px;
+}
+</style>
+
+<div class="container">
+  <div class="item">
+    <img src="./cesena.png" />
+    <b>Cesena</b>
+  </div>
+  <div class="item">
+    <img src="./mercato-saraceno.png" />
+    <b>Mercato Saraceno</b>
+  </div>
+  <div class="item">
+    <img src="./sarsina.png" />
+    <b>Sarsina</b>
+  </div>
+  <div class="item">
+    <img src="./bagno-di-romagna.png" />
+    <b>Bagno di Romagna</b>
+  </div>
+  <div class="item">
+    <img src="./verghereto.png" />
+    <b>Verghereto</b>
+  </div>
 </div>
 
 #### In collaborazione con
 
 <p align="center">
-  <img src="./rotary.png" width="80"><br><b>Rotary Club Cesena Valle del Savio</b>
+  <img src="./rotary.png" width="80"/><br><b>Rotary Club Cesena Valle del Savio</b>
 </p>
 
 #### e il sostegno di
@@ -73,8 +104,8 @@ In funzione del gradimento che il rugby riceverà si considera, come obiettivo a
 <div align="center">
     <table>
     <tr>
-        <td align="center"><img src="./cdr.jpg" width="200"></td>
-        <td align="center"><img src="./ass-fond-er.png" width="200"></td>
+        <td align="center"><img src="./cdr.jpg" width="200"/></td>
+        <td align="center"><img src="./ass-fond-er.png" width="200"/></td>
     </tr>
     </table>
 </div>
@@ -82,7 +113,7 @@ In funzione del gradimento che il rugby riceverà si considera, come obiettivo a
 <div align="center">
     <table>
     <tr>
-        <td align="center"><img src="./romagna-iniziative.png"></td>
+        <td align="center"><img src="./romagna-iniziative.png"/></td>
     </tr>
     </table>
 </div>
@@ -90,8 +121,8 @@ In funzione del gradimento che il rugby riceverà si considera, come obiettivo a
 <div align="center">
     <table>
     <tr>
-        <td align="center"><img src="./centrale-latte.png" width="200"></td>
-        <td align="center"><img src="./piano.jpg" width="200"></td>
+        <td align="center"><img src="./centrale-latte.png" width="200"/></td>
+        <td align="center"><img src="./piano.jpg" width="200"/></td>
     </tr>
     </table>
 </div>

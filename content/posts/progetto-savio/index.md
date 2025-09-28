@@ -65,7 +65,7 @@ In funzione del gradimento che il rugby riceverà si considera, come obiettivo a
 #### In collaborazione con
 
 <p align="center">
-  <img src="./rotary.png" width="80"><br><b>Rotary Club Cesena Valle del Savio<b>
+  <img src="./rotary.png" width="80"><br><b>Rotary Club Cesena Valle del Savio</b>
 </p>
 
 #### e il sostegno di

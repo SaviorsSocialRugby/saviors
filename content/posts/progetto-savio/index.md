@@ -39,9 +39,10 @@ Gli educatori porteranno ogni materiale necessario e gestiranno completamente l'
 Il gioco che verrà sviluppato sarà il “Touch Rugby” che mantiene lo spirito del rugby senza avere la fase di placcaggio, molto spettacolare ed allo stesso tempo con rischi molto limitati, perfettamente adatto per l'ambiente scolastico.
 
 Il progetto si sviluppa in due fasi.
-_La prima fase_ prevede di svolgere tre interventi per classe in orario curricolare da due ore ciascuno con cadenza bisettimanale, al fine di preparare gli alunni per la partecipazione ad un torneo interistituto di "Touch Rugby" da disputarsi nelle strutture dell' Istituto Scolastico.
 
-_La seconda fase_ prevede di selezionare fra tutti quanti abbiano partecipato al torneo Touch almeno 12 alunni per istituto da preparare – in orario extracurricolare - alla Coppa Valle Savio, torneo a cui partecipano tutti gli Istituti Secondari Inferiori della Valle, sfruttando gli spazi pomeridiani destinati ai gruppi sportivi di istituto.
+- **La prima fase** prevede di svolgere tre interventi per classe in orario curricolare da due ore ciascuno con cadenza bisettimanale, al fine di preparare gli alunni per la partecipazione ad un torneo interistituto di "Touch Rugby" da disputarsi nelle strutture dell' Istituto Scolastico.
+
+- **La seconda fase** prevede di selezionare fra tutti quanti abbiano partecipato al torneo Touch almeno 12 alunni per istituto da preparare – in orario extracurricolare - alla Coppa Valle Savio, torneo a cui partecipano tutti gli Istituti Secondari Inferiori della Valle, sfruttando gli spazi pomeridiani destinati ai gruppi sportivi di istituto.
 
 Viene prevista la partecipazione degli Istituti Scolastici ai Giochi Sportivi Studenteschi organizzati dal Coni.
 

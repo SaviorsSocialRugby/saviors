@@ -22,6 +22,8 @@ hide: true
 Il progetto parte dall'idea di poter dare uno stimolo sociale alla Valle del Savio, comunità ricca di capacità e potenzialità ma spesso esclusa da progettazioni e attività tutte concentrate in Cesena.
 L'idea è di scuotere il segmento dagli 11 ai 14 anni sviluppando un'attività che possa coadiuvare lo sforzo della scuola e dei genitori per lo sviluppo psico-fisico dei ragazzi.
 
+![](./vetrina3.jpeg)
+
 Lo sport è in grado di produrre benefici, a partire da quelli fisici e mentali per la persona fino a quelli sociali per una comunità o un Paese.<br/>
 Il valore dello sport è multidimensionale, riguarda diversi ambiti della vita quotidiana di ognuno, allena i muscoli, il cervello, ma anche il rispetto, la disciplina, la capacità di relazione.<br/>
 L'Italia si posiziona all'ultimo posto tra i Paesi OCSE per bambini sedentari, con una quota del 94,5% di bambini tra 11-15 anni che non praticano un adeguato livello di attività fisica (rispetto a una media OCSE dell'86,3%).<br/>
@@ -29,7 +31,9 @@ La pratica regolare di uno sport estende i benefici anche allo studio con maggio
 
 Il rugby unisce all'aspetto educativo di ogni sport ulteriori valori, nati dalla sua peculiarità di essere uno sport collettivo di contatto. Entrare in contatto con l'avversario, dover conquistare sempre terreno per raggiungere la meta sono due elementi del gioco che spostano immediatamente l'attenzione sul ruolo del singolo e del collettivo, sulle basi – fisiche e morali – che ogni giocatore deve possedere per svolgere il proprio compito e cercare di prevalere in modo sportivo ed etico sull'avversario. In quest'ottica la sconfitta non è elemento negativo ma parte di un percorso che fortifica chi lo intraprende.
 
-Il progetto creato dai Saviors Social Rugby ha come scopo far conoscere regole apprese come esigenza per la vita del gioco e il rispetto del diritto di giocare e del diritto di difendere, permettendo a chi gioca di considerare l'opponente come un compagno di gioco e non come un nemico e di temperare il carattere e far crescere la propria autostima.
+![](./vetrina2.jpeg)
+
+Il progetto creato da **Saviors Social Rugby** ha come scopo far conoscere regole apprese come esigenza per la vita del gioco e il rispetto del diritto di giocare e del diritto di difendere, permettendo a chi gioca di considerare l'opponente come un compagno di gioco e non come un nemico e di temperare il carattere e far crescere la propria autostima.
 
 Sport ed alimentazione poi devono viaggiare su binari paralleli, in quanto fattori complementari per il raggiungimento di uno stato di salute ottimale. Per questo verranno effettuati interventi mirati a implementare una sana alimentazione correlata al dispendio energetico e sviluppo, inquadrando il concetto di corretti stili di vita attraverso delle lezioni tenute in classe da dietologi e nutrizionisti.
 
@@ -45,6 +49,8 @@ Il progetto si sviluppa in due fasi.
 - **La seconda fase** prevede di selezionare fra tutti quanti abbiano partecipato al torneo Touch almeno 12 alunni per istituto da preparare – in orario extracurricolare - alla Coppa Valle Savio, torneo a cui partecipano tutti gli Istituti Secondari Inferiori della Valle, sfruttando gli spazi pomeridiani destinati ai gruppi sportivi di istituto.
 
 Viene prevista la partecipazione degli Istituti Scolastici ai Giochi Sportivi Studenteschi organizzati dal Coni.
+
+![](./vetrina4.jpeg)
 
 In funzione del gradimento che il rugby riceverà si considera, come obiettivo a media distanza, la possibile nascita di realtà sportive che in una fase iniziale possano svolgere attività Federale attraverso il tutoraggio con i Saviors e che in seguito possano portare alla costituzione di società sportive locali indipendenti.
 

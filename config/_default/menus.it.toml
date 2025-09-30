@@ -78,30 +78,35 @@ weight = 50
 [[main]]
 name = "Staff"
 pageRef = "posts/staff"
-weight = 99
+weight = 90
+
+[[main]]
+name = "Progetto Savio"
+pageRef = "posts/progetto-savio"
+weight = 100
 
 [[main]]
 name = "Contatti"
 pageRef = "contact"
-weight = 100
+weight = 110
 
 [[main]]
 identifier = "instagram"
 pre = "instagram"
 url = "https://www.instagram.com/saviors_social_rugby"
-weight = 101
+weight = 120
 
 [[main]]
 identifier = "facebook"
 pre = "facebook"
 url = "https://www.facebook.com/saviorssocialrugby"
-weight = 102
+weight = 130
 
 [[main]]
 identifier = "whatsapp"
 pre = "whatsapp"
 url = "https://wa.me/+393297956230"
-weight = 103
+weight = 140
 
 # [[main]]
 # name = "sub-menu 1"

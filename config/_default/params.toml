@@ -38,21 +38,21 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
-# [next_match]
-# home = "Saviors Social Rugby"
-# home_logo = "saviors.png"
-# visitors = "Ravenna Rugby FC"
-# visitors_logo = "ravenna.png"
-# result = "TBD"
-# when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 04/05/2025 15:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+[next_match]
+home = "Rugby Guastalla 2008"
+home_logo = "guastalla.png"
+visitors = "Saviors Social Rugby"
+visitors_logo = "saviors.png"
+result = "TBD"
+when_where = "2ᵃ Andata Campionato FIR Serie C Regionale 2025/2026 - 30/11/2025 14:30 @ Ferrarini - Guastalla (RE)"
 
-# [last_match]
-# home = "Saviors Social Rugby"
-# home_logo = "saviors.png"
-# visitors = "Ravenna Rugby FC"
-# visitors_logo = "ravenna.png"
-# result = "26 - 29"
-# when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2024/2025 - 04/05/2025 15:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+[last_match]
+home = "Saviors Social Rugby"
+home_logo = "saviors.png"
+visitors = "Modena Rugby 1965 nr. 2"
+visitors_logo = "modena.png"
+result = "18 - 17"
+when_where = "1ᵃ Andata Campionato FIR Serie C Regionale 2025/2026 - 02/11/2025 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
 
 #[[sponsors]]
 #name = "Smart Security"

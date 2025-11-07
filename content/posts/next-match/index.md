@@ -1,5 +1,5 @@
-<!-- ---
-title: "Prossimo Match:<br/>Saviors Social Rugby vs Ravenna Rugby"
+---
+title: "Prossimo Match:<br/>Rugby Guastalla vs Saviors Social Rugby"
 date: "2024-12-08"
 sharingLinks:
   - facebook
@@ -7,7 +7,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Ravenna
+  - Guastalla
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -15,10 +15,10 @@ weight: 1
 hide: true
 ---
 
-<!-- ![](./team.jpg) -->
+![](./team.jpg)
 
-| Giornata   | Data       | Orario | Casa                         | Ospiti           | Indirizzo                               |
-| ---------- | ---------- | ------ | ---------------------------- | ---------------- | --------------------------------------- |
-| 7ᵃ Ritorno | 04/05/2025 | 15:30  | **Saviors Social Rugby ASD** | Ravenna Rugby FC | Via Roversano 2815, 47522 - Cesena (FC) |
+| Giornata  | Data       | Orario | Casa                 | Ospiti                       | Indirizzo                  |
+| --------- | ---------- | ------ | -------------------- | ---------------------------- | -------------------------- |
+| 2ᵃ Andata | 30/11/2025 | 14:30  | Rugby Guastalla 2008 | **Saviors Social Rugby ASD** | Ferrarini - Guastalla (RE) |
 
-![](./featured.jpg) -->
+![](./featured.jpg)

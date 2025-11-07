@@ -9,7 +9,6 @@ tags:
   - consiglio direttivo
 showHeadingAnchors: false
 showTaxonomies: false
-showHero: false
 weight: 7
 ---
 

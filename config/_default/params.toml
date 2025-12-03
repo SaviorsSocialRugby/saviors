@@ -39,20 +39,20 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [next_match]
+home = "Giallo Dozza Bologna"
+home_logo = "dozza.png"
+visitors = "Saviors Social Rugby"
+visitors_logo = "saviors.png"
+result = "TBD"
+when_where = "3ᵃ Andata Campionato FIR Serie C Regionale 2025/2026 - 06/12/2025 14:30 @ Carcere, Fornace, Navile, Dozza (BO)"
+
+[last_match]
 home = "Rugby Guastalla 2008"
 home_logo = "guastalla.png"
 visitors = "Saviors Social Rugby"
 visitors_logo = "saviors.png"
-result = "TBD"
+result = "20 - 12"
 when_where = "2ᵃ Andata Campionato FIR Serie C Regionale 2025/2026 - 30/11/2025 14:30 @ Ferrarini - Guastalla (RE)"
-
-[last_match]
-home = "Saviors Social Rugby"
-home_logo = "saviors.png"
-visitors = "Modena Rugby 1965 nr. 2"
-visitors_logo = "modena.png"
-result = "18 - 17"
-when_where = "1ᵃ Andata Campionato FIR Serie C Regionale 2025/2026 - 02/11/2025 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
 
 #[[sponsors]]
 #name = "Smart Security"

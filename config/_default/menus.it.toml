@@ -27,8 +27,14 @@ weight = 3
 
 [[main]]
 name = "Senior"
-pageRef = "posts/championship/20242025"
+pageRef = "posts/championship/20252026"
 weight = 30
+
+[[main]]
+name = "Campionato 2025/2026"
+parent = "Senior"
+pageRef = "posts/championship/20252026"
+weight = 11
 
 [[main]]
 name = "Allenamenti"
@@ -39,8 +45,8 @@ weight = 10
 [[main]]
 name = "Campionato 2024/2025"
 parent = "Senior"
-pageRef = "posts/championship/20242025"
-weight = 11
+pageRef = "posts/archive/championship/20242025"
+weight = 12
 
 [[main]]
 name = "Campionato 2023/2024"

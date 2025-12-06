@@ -21,14 +21,14 @@ weight: 3
 
 |     | Team                         | Punti | G/V/P/S | Pt. fatti | Pt. subiti | Mt. fatte | Diff Pt. |
 | --- | ---------------------------- | ----- | ------- | --------- | ---------- | --------- | -------- |
-| 1   | Romagna RFC                  | 5     | 1/1/0/0 | 26        | 20         | 4         | 6        |
-| 2   | Faenza Rugby                 | 4     | 1/1/0/0 | 16        | 8          | 1         | 8        |
-| 3   | **Saviors Social Rugby ASD** | 4     | 1/1/0/0 | 18        | 17         | 3         | 1        |
-| 4   | Modena Rugby 1965 nr. 2      | 1     | 1/0/0/1 | 17        | 18         | 2         | -1       |
-| 5   | Giallo Dozza Bologna         | 0     | 0/0/0/0 | 0         | 0          | 0         | 0        |
-| 6   | Ravenna Rugby FC             | 0     | 0/0/0/0 | 0         | 0          | 0         | 0        |
-| 7   | Rugby Guastalla 2008         | 0     | 1/0/0/1 | 20        | 26         | 3         | -6       |
-| 8   | Rugby Colorno 1975           | 0     | 1/0/0/1 | 8         | 16         | 1         | -8       |
+| 1   | Faenza Rugby                 | 9     | 2/2/0/0 | 101       | 15         | 15        | 86       |
+| 2   | Modena Rugby 1965 nr. 2      | 6     | 2/1/0/1 | 46        | 43         | 7         | 3        |
+| 3   | Ravenna Rugby FC             | 5     | 1/1/0/0 | 33        | 17         | 5         | 16       |
+| 4   | Rugby Guastalla 2008         | 5     | 2/1/0/1 | 40        | 38         | 6         | 2        |
+| 5   | Romagna RFC                  | 5     | 2/1/0/1 | 43        | 53         | 7         | -10      |
+| 6   | **Saviors Social Rugby ASD** | 4     | 2/1/0/1 | 30        | 37         | 5         | -7       |
+| 7   | Rugby Colorno 1975           | 1     | 2/0/0/2 | 33        | 45         | 4         | -12      |
+| 8   | Giallo Dozza Bologna         | 0     | 1/0/0/1 | 7         | 85         | 1         | -78      |
 
 ## Calendario
 

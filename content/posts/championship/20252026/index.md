@@ -39,7 +39,7 @@ weight: 3
 | 1ᵃ Andata  | 02/11/2025 | 14:30  | **Saviors Social Rugby ASD** | Modena Rugby 1965 nr. 2      | Via Roversano 2815, 47522 - Cesena (FC)  |
 | 2ᵃ Andata  | 30/11/2025 | 14:30  | Rugby Guastalla 2008         | **Saviors Social Rugby ASD** | Ferrarini - Guastalla (RE)               |
 | 3ᵃ Andata  | 06/12/2025 | 14:30  | Giallo Dozza Bologna         | **Saviors Social Rugby ASD** | Carcere, Fornace, Navile, Dozza, Bologna |
-| 4ᵃ Andata  | 14/12/2025 | 14:30  | Ravenna Rugby FC             | **Saviors Social Rugby ASD** | Campo Dribbling - Ravenna                |
+| 4ᵃ Andata  | 14/12/2025 | 14:30  | Ravenna Rugby FC             | **Saviors Social Rugby ASD** | Sadio Muccinelli, Lugo (RA)              |
 | 5ᵃ Andata  | 18/01/2026 | 14:30  | Romagna RFC                  | **Saviors Social Rugby ASD** | Campo Rivabella - Rimini                 |
 | 6ᵃ Andata  | 25/01/2026 | 14:30  | **Saviors Social Rugby ASD** | Rugby Colorno 1975           | Via Roversano 2815, 47522 - Cesena (FC)  |
 | 7ᵃ Andata  | 01/02/2026 | 14:30  | **Saviors Social Rugby ASD** | Faenza Rugby                 | Via Roversano 2815, 47522 - Cesena (FC)  |

@@ -1,5 +1,5 @@
 ---
-title: "Prossimo Match:<br/>Ravenna Rugby FC vs Saviors Social Rugby"
+title: "Prossimo Match:<br/>Romagna RFC vs Saviors Social Rugby"
 date: "2025-12-08"
 sharingLinks:
   - facebook
@@ -7,7 +7,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Ravenna
+  - Romagna
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -17,8 +17,8 @@ hide: true
 
 ![](./team.jpg)
 
-| Giornata  | Data       | Orario | Casa             | Ospiti                       | Indirizzo                   |
-| --------- | ---------- | ------ | ---------------- | ---------------------------- | --------------------------- |
-| 4ᵃ Andata | 14/12/2025 | 14:30  | Ravenna Rugby FC | **Saviors Social Rugby ASD** | Sadio Muccinelli, Lugo (RA) |
+| Giornata  | Data       | Orario | Casa        | Ospiti                       | Indirizzo                |
+| --------- | ---------- | ------ | ----------- | ---------------------------- | ------------------------ |
+| 5ᵃ Andata | 17/01/2026 | 14:30  | Romagna RFC | **Saviors Social Rugby ASD** | Campo Rivabella - Rimini |
 
 ![](./featured.jpg)

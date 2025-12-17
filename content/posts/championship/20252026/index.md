@@ -21,14 +21,14 @@ weight: 3
 
 |     | Team                         | Punti | G/V/P/S | Pt. fatti | Pt. subiti | Mt. fatte | Diff Pt. |
 | --- | ---------------------------- | ----- | ------- | --------- | ---------- | --------- | -------- |
-| 1   | Faenza Rugby                 | 9     | 2/2/0/0 | 101       | 15         | 15        | 86       |
-| 2   | Modena Rugby 1965 nr. 2      | 6     | 2/1/0/1 | 46        | 43         | 7         | 3        |
-| 3   | Ravenna Rugby FC             | 5     | 1/1/0/0 | 33        | 17         | 5         | 16       |
-| 4   | Rugby Guastalla 2008         | 5     | 2/1/0/1 | 40        | 38         | 6         | 2        |
-| 5   | Romagna RFC                  | 5     | 2/1/0/1 | 43        | 53         | 7         | -10      |
-| 6   | **Saviors Social Rugby ASD** | 4     | 2/1/0/1 | 30        | 37         | 5         | -7       |
-| 7   | Rugby Colorno 1975           | 1     | 2/0/0/2 | 33        | 45         | 4         | -12      |
-| 8   | Giallo Dozza Bologna         | 0     | 1/0/0/1 | 7         | 85         | 1         | -78      |
+| 1   | Faenza Rugby                 | 16    | 4/3/0/1 | 165       | 80         | 24        | 85       |
+| 2   | Modena Rugby 1965 nr. 2      | 15    | 4/3/0/1 | 154       | 67         | 22        | 87       |
+| 4   | Rugby Guastalla 2008         | 14    | 4/3/0/1 | 115       | 93         | 17        | 22       |
+| 3   | Ravenna Rugby FC             | 12    | 3/2/0/1 | 87        | 58         | 13        | 29       |
+| 5   | Romagna RFC                  | 11    | 4/2/0/2 | 82        | 85         | 12        | -3       |
+| 6   | **Saviors Social Rugby ASD** | 9     | 4/2/0/2 | 110       | 67         | 18        | 43       |
+| 7   | Rugby Colorno 1975           | 3     | 4/0/0/4 | 56        | 94         | 7         | -38      |
+| 8   | Giallo Dozza Bologna         | 0     | 3/0/0/3 | 7         | 232        | 1         | -225     |
 
 ## Calendario
 
@@ -40,7 +40,7 @@ weight: 3
 | 2ᵃ Andata  | 30/11/2025 | 14:30  | Rugby Guastalla 2008         | **Saviors Social Rugby ASD** | Ferrarini - Guastalla (RE)               |
 | 3ᵃ Andata  | 06/12/2025 | 14:30  | Giallo Dozza Bologna         | **Saviors Social Rugby ASD** | Carcere, Fornace, Navile, Dozza, Bologna |
 | 4ᵃ Andata  | 14/12/2025 | 14:30  | Ravenna Rugby FC             | **Saviors Social Rugby ASD** | Sadio Muccinelli, Lugo (RA)              |
-| 5ᵃ Andata  | 18/01/2026 | 14:30  | Romagna RFC                  | **Saviors Social Rugby ASD** | Campo Rivabella - Rimini                 |
+| 5ᵃ Andata  | 17/01/2026 | 14:30  | Romagna RFC                  | **Saviors Social Rugby ASD** | Campo Rivabella - Rimini                 |
 | 6ᵃ Andata  | 25/01/2026 | 14:30  | **Saviors Social Rugby ASD** | Rugby Colorno 1975           | Via Roversano 2815, 47522 - Cesena (FC)  |
 | 7ᵃ Andata  | 01/02/2026 | 14:30  | **Saviors Social Rugby ASD** | Faenza Rugby                 | Via Roversano 2815, 47522 - Cesena (FC)  |
 | 1ᵃ Ritorno | 15/02/2026 | 14:30  | Modena Rugby 1965 nr. 2      | **Saviors Social Rugby ASD** | Modena (MO)                              |

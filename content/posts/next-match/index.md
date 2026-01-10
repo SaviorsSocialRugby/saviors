@@ -15,7 +15,7 @@ weight: 1
 hide: true
 ---
 
-![](./team.jpg)
+<!-- ![](./team.jpg) -->
 
 | Giornata  | Data       | Orario | Casa        | Ospiti                       | Indirizzo                |
 | --------- | ---------- | ------ | ----------- | ---------------------------- | ------------------------ |

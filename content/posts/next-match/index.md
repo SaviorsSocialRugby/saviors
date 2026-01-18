@@ -1,5 +1,5 @@
 ---
-title: "Prossimo Match:<br/>Romagna RFC vs Saviors Social Rugby"
+title: "Prossimo Match:<br/>Saviors Social Rugby vs Colorno"
 date: "2025-12-08"
 sharingLinks:
   - facebook
@@ -17,8 +17,8 @@ hide: true
 
 <!-- ![](./team.jpg) -->
 
-| Giornata  | Data       | Orario | Casa        | Ospiti                       | Indirizzo                |
-| --------- | ---------- | ------ | ----------- | ---------------------------- | ------------------------ |
-| 5ᵃ Andata | 17/01/2026 | 14:30  | Romagna RFC | **Saviors Social Rugby ASD** | Campo Rivabella - Rimini |
+| Giornata  | Data       | Orario | Casa                         | Ospiti             | Indirizzo                               |
+| --------- | ---------- | ------ | ---------------------------- | ------------------ | --------------------------------------- |
+| 6ᵃ Andata | 25/01/2026 | 14:30  | **Saviors Social Rugby ASD** | Rugby Colorno 1975 | Via Roversano 2815, 47522 - Cesena (FC) |
 
-![](./featured.jpg)
+<!-- ![](./featured.jpg) -->

@@ -41,18 +41,18 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [next_match]
 home = "Saviors Social Rugby"
 home_logo = "saviors.png"
-visitors = "Rugby Colorno 1975      "
-visitors_logo = "colorno.png"
+visitors = "Faenza Rugby"
+visitors_logo = "faenza.png"
 result = "TBD"
-when_where = "6ᵃ Andata Campionato FIR Serie C Regionale 2025/2026 - 25/01/2026 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+when_where = "7ᵃ Andata Campionato FIR Serie C Regionale 2025/2026 - 01/02/2026 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
 
 [last_match]
-home = "Romagna RFC"
-home_logo = "romagna.png"
-visitors = "Saviors Social Rugby"
-visitors_logo = "saviors.png"
-result = "22 - 10"
-when_where = "5ᵃ Andata Campionato FIR Serie C Regionale 2025/2026 - 17/01/2026 14:30 @ Campo Rivabella - Rimini"
+home = "Saviors Social Rugby"
+home_logo = "saviors.png"
+visitors = "Rugby Colorno 1975"
+visitors_logo = "colorno.png"
+result = "50 - 14"
+when_where = "6ᵃ Andata Campionato FIR Serie C Regionale 2025/2026 - 25/01/2026 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
 
 #[[sponsors]]
 #name = "Smart Security"

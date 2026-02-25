@@ -1,5 +1,5 @@
 ---
-title: "Prossimo Match:<br/>Modena vs Saviors Social Rugby"
+title: "Prossimo Match:<br/>Saviors Social Rugby vs Guastalla"
 date: "2025-12-08"
 sharingLinks:
   - facebook
@@ -7,7 +7,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Modena
+  - Guastalla
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -17,8 +17,8 @@ hide: true
 
 <!-- ![](./team.jpg) -->
 
-| Giornata   | Data       | Orario | Casa                    | Ospiti                       | Indirizzo   |
-| ---------- | ---------- | ------ | ----------------------- | ---------------------------- | ----------- |
-| 1ᵃ Ritorno | 15/02/2026 | 14:30  | Modena Rugby 1965 nr. 2 | **Saviors Social Rugby ASD** | Modena (MO) |
+| Giornata   | Data       | Orario | Casa                         | Ospiti               | Indirizzo                               |
+| ---------- | ---------- | ------ | ---------------------------- | -------------------- | --------------------------------------- |
+| 2ᵃ Ritorno | 01/03/2026 | 14:30  | **Saviors Social Rugby ASD** | Rugby Guastalla 2008 | Via Roversano 2815, 47522 - Cesena (FC) |
 
 ![](./featured.jpg)

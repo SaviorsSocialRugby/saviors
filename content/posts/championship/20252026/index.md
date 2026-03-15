@@ -19,16 +19,16 @@ weight: 3
 
 ## Classifica
 
-|     | Team                         | Punti | G/V/P/S | Pt. fatti | Pt. subiti | Mt. fatte | Diff Pt. |
-| --- | ---------------------------- | ----- | ------- | --------- | ---------- | --------- | -------- |
-| 1   | Ravenna Rugby FC             | 37    | 9/7/0/2 | 351       | 124        | 54        | 227      |
-| 2   | Modena Rugby 1965 nr. 2      | 37    | 9/7/0/1 | 272       | 120        | 38        | 152      |
-| 3   | Faenza Rugby                 | 26    | 8/5/0/3 | 217       | 172        | 38        | 123      |
-| 4   | Romagna RFC                  | 23    | 9/4/1/4 | 217       | 172        | 31        | 45       |
-| 5   | **Saviors Social Rugby ASD** | 22    | 9/5/0/4 | 218       | 173        | 33        | 45       |
-| 8   | Rugby Guastalla 2008         | 21    | 8/3/1/4 | 176       | 165        | 27        | 11       |
-| 7   | Rugby Colorno 1975           | 2     | 8/1/0/7 | 118       | 215        | 16        | -97      |
-| 8   | Giallo Dozza Bologna         | 0     | 8/0/0/8 | 33        | 539        | 5         | -506     |
+|     | Team                         | Punti | G/V/P/S  | Pt. fatti | Pt. subiti | Mt. fatte | Diff Pt. |
+| --- | ---------------------------- | ----- | -------- | --------- | ---------- | --------- | -------- |
+| 1   | Ravenna Rugby FC             | 37    | 9/7/0/2  | 351       | 124        | 54        | 227      |
+| 2   | Modena Rugby 1965 nr. 2      | 37    | 9/7/0/1  | 272       | 120        | 38        | 152      |
+| 3   | **Saviors Social Rugby ASD** | 27    | 10/9/0/4 | 265       | 173        | 38        | 92       |
+| 4   | Faenza Rugby                 | 26    | 8/5/0/3  | 217       | 172        | 38        | 123      |
+| 5   | Romagna RFC                  | 23    | 9/4/1/4  | 217       | 172        | 31        | 45       |
+| 6   | Rugby Guastalla 2008         | 21    | 8/3/1/4  | 176       | 165        | 27        | 11       |
+| 7   | Rugby Colorno 1975           | 2     | 8/1/0/7  | 118       | 215        | 16        | -97      |
+| 8   | Giallo Dozza Bologna         | 0     | 8/0/0/8  | 33        | 539        | 5         | -506     |
 
 ## Calendario
 

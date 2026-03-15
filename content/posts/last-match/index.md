@@ -1,5 +1,5 @@
 ---
-title: "Ultimo Match:<br/>Saviors Social Rugby vs Guastalla (28 - 25)"
+title: "Ultimo Match:<br/>Saviors Social Rugby vs Giallo Dozza (47 - 0)"
 date: "2025-12-08"
 sharingLinks:
   - facebook
@@ -7,7 +7,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Guastalla
+  - Dozza
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -17,8 +17,8 @@ hide: true
 
 ![](./featured.jpg)
 
-| Giornata   | Data       | Orario | Casa                         | Ospiti               | Indirizzo                               |
-| ---------- | ---------- | ------ | ---------------------------- | -------------------- | --------------------------------------- |
-| 2ᵃ Ritorno | 01/03/2026 | 14:30  | **Saviors Social Rugby ASD** | Rugby Guastalla 2008 | Via Roversano 2815, 47522 - Cesena (FC) |
+| Giornata   | Data       | Orario | Casa                 | Ospiti                       | Indirizzo                                |
+| ---------- | ---------- | ------ | -------------------- | ---------------------------- | ---------------------------------------- |
+| 3ᵃ Ritorno | 14/03/2026 | 14:30  | Giallo Dozza Bologna | **Saviors Social Rugby ASD** | Carcere, Fornace, Navile, Dozza, Bologna |
 
 ![](./team.jpg)

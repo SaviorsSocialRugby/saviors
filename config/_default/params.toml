@@ -41,18 +41,18 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [next_match]
 home = "Saviors Social Rugby"
 home_logo = "saviors.png"
-visitors = "Giallo Dozza Bologna Rugby"
-visitors_logo = "dozza.png"
+visitors = "Ravenna Rugby FC"
+visitors_logo = "ravenna.png"
 result = "TBD"
-when_where = "3ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 04/03/2026 14:30 @ Casa Circondariale, Bologna (BO)"
+when_where = "4ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 22/03/2026 13:00 @ Via Roversano 2815, 47522 - Cesena (FC)"
 
 [last_match]
 home = "Saviors Social Rugby"
 home_logo = "saviors.png"
-visitors = "Rugby Guastalla 200"
-visitors_logo = "guastalla.png"
-result = "28 - 25"
-when_where = "2ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 01/03/2026 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+visitors = "Giallo Dozza Bologna Rugby"
+visitors_logo = "dozza.png"
+result = "47 - 0"
+when_where = "3ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 14/03/2026 14:30 @ Casa Circondariale, Bologna (BO)"
 
 #[[sponsors]]
 #name = "Smart Security"

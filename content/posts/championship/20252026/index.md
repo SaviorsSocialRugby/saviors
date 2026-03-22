@@ -46,7 +46,7 @@ weight: 3
 | 1ᵃ Ritorno | 15/02/2026 | 14:30  | Modena Rugby 1965 nr. 2      | **Saviors Social Rugby ASD** | Modena (MO)                              |
 | 2ᵃ Ritorno | 01/03/2026 | 14:30  | **Saviors Social Rugby ASD** | Rugby Guastalla 2008         | Via Roversano 2815, 47522 - Cesena (FC)  |
 | 3ᵃ Ritorno | 14/03/2026 | 14:30  | Giallo Dozza Bologna         | **Saviors Social Rugby ASD** | Carcere, Fornace, Navile, Dozza, Bologna |
-| 4ᵃ Ritorno | 22/03/2026 | 13:00  | **Saviors Social Rugby ASD** | Ravenna Rugby FC             | Via Roversano 2815, 47522 - Cesena (FC)  |
+| 4ᵃ Ritorno | 22/03/2026 | 14:30  | **Saviors Social Rugby ASD** | Ravenna Rugby FC             | Via Roversano 2815, 47522 - Cesena (FC)  |
 | 5ᵃ Ritorno | 12/04/2026 | 15:30  | **Saviors Social Rugby ASD** | Romagna RFC                  | Via Roversano 2815, 47522 - Cesena (FC)  |
 | 6ᵃ Ritorno | 19/04/2026 | 15:30  | Rugby Colorno 1975           | **Saviors Social Rugby ASD** | Stadio Gino Maini - Colorno              |
 | 7ᵃ Ritorno | 03/05/2026 | 15:30  | Faenza Rugb                  | **Saviors Social Rugby ASD** | Via Viara, Castel San Pietro Terme (BO)  |

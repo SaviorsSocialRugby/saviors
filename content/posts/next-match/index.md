@@ -19,6 +19,6 @@ hide: true
 
 | Giornata   | Data       | Orario | Casa                         | Ospiti           | Indirizzo                               |
 | ---------- | ---------- | ------ | ---------------------------- | ---------------- | --------------------------------------- |
-| 4ᵃ Ritorno | 22/03/2026 | 13:00  | **Saviors Social Rugby ASD** | Ravenna Rugby FC | Via Roversano 2815, 47522 - Cesena (FC) |
+| 4ᵃ Ritorno | 22/03/2026 | 14:30  | **Saviors Social Rugby ASD** | Ravenna Rugby FC | Via Roversano 2815, 47522 - Cesena (FC) |
 
 ![](./featured.jpg)

@@ -45,7 +45,7 @@ weight: 0
 | 1ᵃ Ritorno | 16/02/2025 | 14:30  | **Saviors Social Rugby ASD** | Modena Rugby 1965 nr. 2      | Via Roversano 2815, 47522 - Cesena (FC) |
 | 2ᵃ Ritorno | 02/03/2025 |        | RIPOSO                       |                              |                                         |
 | 3ᵃ Ritorno | 09/03/2025 | 14:30  | **Saviors Social Rugby ASD** | Rugby Guastalla 2008         | Via Roversano 2815, 47522 - Cesena (FC) |
-| 4ᵃ Ritorno | 13/04/2025 | 13:00  | Rugby Colorno 1975 nr.3      | **Saviors Social Rugby ASD** | Stadio Gino Maini - Colorno             |
+| 4ᵃ Ritorno | 13/04/2025 | 14:30  | Rugby Colorno 1975 nr.3      | **Saviors Social Rugby ASD** | Stadio Gino Maini - Colorno             |
 | 5ᵃ Ritorno | 06/04/2025 | 15:30  | Bologna Rugby Club           | **Saviors Social Rugby ASD** | Bonori - Bologna                        |
 | 6ᵃ Ritorno | 27/04/2025 | 15:30  | **Saviors Social Rugby ASD** | ASD Rimini Rugby             | Via Roversano 2815, 47522 - Cesena (FC) |
 | 7ᵃ Ritorno | 04/05/2025 | 15:30  | **Saviors Social Rugby ASD** | Ravenna Rugby                | Via Roversano 2815, 47522 - Cesena (FC) |

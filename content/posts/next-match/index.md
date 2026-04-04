@@ -1,5 +1,5 @@
 ---
-title: "Prossimo Match:<br/>Saviors Social Rugby vs Ravenna"
+title: "Prossimo Match:<br/>Saviors Social Rugby vs Romagna"
 date: "2025-12-08"
 sharingLinks:
   - facebook
@@ -7,7 +7,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Ravenna
+  - Romagna
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -17,8 +17,8 @@ hide: true
 
 <!-- ![](./team.jpg) -->
 
-| Giornata   | Data       | Orario | Casa                         | Ospiti           | Indirizzo                               |
-| ---------- | ---------- | ------ | ---------------------------- | ---------------- | --------------------------------------- |
-| 4ᵃ Ritorno | 22/03/2026 | 14:30  | **Saviors Social Rugby ASD** | Ravenna Rugby FC | Via Roversano 2815, 47522 - Cesena (FC) |
+| Giornata   | Data       | Orario | Casa                         | Ospiti      | Indirizzo                               |
+| ---------- | ---------- | ------ | ---------------------------- | ----------- | --------------------------------------- |
+| 5ᵃ Ritorno | 12/04/2026 | 15:30  | **Saviors Social Rugby ASD** | Romagna RFC | Via Roversano 2815, 47522 - Cesena (FC) |
 
 ![](./featured.jpg)

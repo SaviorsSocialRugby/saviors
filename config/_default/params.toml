@@ -39,20 +39,20 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [next_match]
-home = "Saviors Social Rugby"
-home_logo = "saviors.png"
-visitors = "Romagna RFC "
-visitors_logo = "romagna.png"
+home = "Rugby Colorno 1975 "
+home_logo = "colorno.png"
+visitors = "Saviors Social Rugby"
+visitors_logo = "saviors.png"
 result = "TBD"
-when_where = "4ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 22/03/2026 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+when_where = "6ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 19/04/2026 15:30 @ Stadio Gino Maini - Colorno "
 
 [last_match]
 home = "Saviors Social Rugby"
 home_logo = "saviors.png"
-visitors = "Ravenna Rugby FC"
-visitors_logo = "ravenna.png"
-result = "32 - 22"
-when_where = "4ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 22/03/2026 14:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+visitors = "Romagna RFC "
+visitors_logo = "romagna.png"
+result = "34 - 0"
+when_where = "5ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 12/04/2026 15:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
 
 #[[sponsors]]
 #name = "Smart Security"

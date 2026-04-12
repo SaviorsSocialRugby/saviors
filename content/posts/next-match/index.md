@@ -1,5 +1,5 @@
 ---
-title: "Prossimo Match:<br/>Saviors Social Rugby vs Romagna"
+title: "Prossimo Match:<br/>Colorno vs Saviors Social Rugby"
 date: "2025-12-08"
 sharingLinks:
   - facebook
@@ -7,7 +7,7 @@ sharingLinks:
   - telegram
 tags:
   - Saviors
-  - Romagna
+  - Colorno
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -17,8 +17,8 @@ hide: true
 
 <!-- ![](./team.jpg) -->
 
-| Giornata   | Data       | Orario | Casa                         | Ospiti      | Indirizzo                               |
-| ---------- | ---------- | ------ | ---------------------------- | ----------- | --------------------------------------- |
-| 5ᵃ Ritorno | 12/04/2026 | 15:30  | **Saviors Social Rugby ASD** | Romagna RFC | Via Roversano 2815, 47522 - Cesena (FC) |
+| Giornata   | Data       | Orario | Casa               | Ospiti                       | Indirizzo                   |
+| ---------- | ---------- | ------ | ------------------ | ---------------------------- | --------------------------- |
+| 6ᵃ Ritorno | 19/04/2026 | 15:30  | Rugby Colorno 1975 | **Saviors Social Rugby ASD** | Stadio Gino Maini - Colorno |
 
 ![](./featured.jpg)

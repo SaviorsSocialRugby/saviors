@@ -39,20 +39,20 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [next_match]
-home = "Rugby Colorno 1975 "
-home_logo = "colorno.png"
+home = "Faenza Rugby"
+home_logo = "faenza.png"
 visitors = "Saviors Social Rugby"
 visitors_logo = "saviors.png"
 result = "TBD"
-when_where = "6ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 19/04/2026 15:30 @ Stadio Gino Maini - Colorno "
+when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 03/05/2026 15:30 @ Via Viara, Castel San Pietro Terme (BO)"
 
 [last_match]
-home = "Saviors Social Rugby"
-home_logo = "saviors.png"
-visitors = "Romagna RFC "
-visitors_logo = "romagna.png"
-result = "34 - 0"
-when_where = "5ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 12/04/2026 15:30 @ Via Roversano 2815, 47522 - Cesena (FC)"
+home = "Rugby Colorno 1975"
+home_logo = "colorno.png"
+visitors = "Saviors Social Rugby"
+visitors_logo = "saviors.png"
+result = "29 - 17"
+when_where = "6ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 19/04/2026 15:30 @ Stadio Gino Maini - Colorno"
 
 #[[sponsors]]
 #name = "Smart Security"

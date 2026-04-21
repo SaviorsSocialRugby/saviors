@@ -49,4 +49,4 @@ weight: 3
 | 4ᵃ Ritorno | 22/03/2026 | 14:30  | **Saviors Social Rugby ASD** | Ravenna Rugby FC             | Via Roversano 2815, 47522 - Cesena (FC)  |
 | 5ᵃ Ritorno | 12/04/2026 | 15:30  | **Saviors Social Rugby ASD** | Romagna RFC                  | Via Roversano 2815, 47522 - Cesena (FC)  |
 | 6ᵃ Ritorno | 19/04/2026 | 15:30  | Rugby Colorno 1975           | **Saviors Social Rugby ASD** | Stadio Gino Maini - Colorno              |
-| 7ᵃ Ritorno | 03/05/2026 | 15:30  | Faenza Rugb                  | **Saviors Social Rugby ASD** | Via Viara, Castel San Pietro Terme (BO)  |
+| 7ᵃ Ritorno | 03/05/2026 | 15:30  | Faenza Rugby                 | **Saviors Social Rugby ASD** | Via Viara, Castel San Pietro Terme (BO)  |

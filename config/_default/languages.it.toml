@@ -1,5 +1,5 @@
-languageCode = "it"
-languageName = "Italian"
+locale = "it"
+label = "Italian"
 
 weight = 1
 title = "Home"

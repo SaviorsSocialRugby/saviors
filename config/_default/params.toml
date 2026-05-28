@@ -38,21 +38,21 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
-[next_match]
+# [next_match]
+# home = "Faenza Rugby"
+# home_logo = "faenza.png"
+# visitors = "Saviors Social Rugby"
+# visitors_logo = "saviors.png"
+# result = "34 - 22"
+# when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 03/05/2026 15:30 @ Stadio Graziola, Faenza"
+
+[last_match]
 home = "Faenza Rugby"
 home_logo = "faenza.png"
 visitors = "Saviors Social Rugby"
 visitors_logo = "saviors.png"
-result = "TBD"
+result = "34 - 22"
 when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 03/05/2026 15:30 @ Stadio Graziola, Faenza"
-
-[last_match]
-home = "Rugby Colorno 1975"
-home_logo = "colorno.png"
-visitors = "Saviors Social Rugby"
-visitors_logo = "saviors.png"
-result = "29 - 17"
-when_where = "6ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 19/04/2026 15:30 @ Stadio Gino Maini, Colorno"
 
 #[[sponsors]]
 #name = "Smart Security"

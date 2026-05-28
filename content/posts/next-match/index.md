@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Prossimo Match:<br/>Faenza Rugby vs Saviors Social Rugby"
 date: "2025-12-08"
 sharingLinks:
@@ -21,4 +21,4 @@ hide: true
 | ---------- | ---------- | ------ | ------------ | ---------------------------- | --------------------------------------- |
 | 7ᵃ Ritorno | 03/05/2026 | 15:30  | Faenza Rugby | **Saviors Social Rugby ASD** | Via Viara, Castel San Pietro Terme (BO) |
 
-![](./featured.jpg)
+![](./featured.jpg) -->

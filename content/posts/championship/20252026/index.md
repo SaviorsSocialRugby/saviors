@@ -1,6 +1,6 @@
 ---
 title: Campionato FIR Serie C Regionale 2025/2026
-date: "2025-10-05"
+date: "2026-05-28"
 showDate: false
 sharingLinks:
   - facebook
@@ -21,14 +21,14 @@ weight: 3
 
 |     | Team                         | Punti | G/V/P/S   | Pt. fatti | Pt. subiti | Mt. fatte | Diff Pt. |
 | --- | ---------------------------- | ----- | --------- | --------- | ---------- | --------- | -------- |
-| 1   | Modena Rugby 1965 nr. 2      | 53    | 13/11/0/2 | 421       | 170        | 61        | 251      |
-| 2   | Ravenna Rugby FC             | 48    | 13/9/0/4  | 473       | 231        | 71        | 260      |
-| 3   | Rugby Guastalla 2008         | 38    | 13/6/1/6  | 374       | 282        | 57        | 92       |
-| 4   | **Saviors Social Rugby ASD** | 37    | 13/8/0/5  | 348       | 224        | 53        | 124      |
-| 5   | Romagna RFC                  | 33    | 13/6/1/6  | 295       | 238        | 42        | 57       |
-| 6   | Faenza Rugby                 | 32    | 13/7/0/6  | 332       | 267        | 50        | 65       |
-| 7   | Rugby Colorno 1975           | 20    | 13/4/0/9  | 280       | 326        | 44        | -46      |
-| 8   | Giallo Dozza Bologna         | -4    | 13/0/0/13 | 33        | 836        | 5         | -803     |
+| 1   | Modena Rugby 1965 nr. 2      | 58    | 14/12/0/2 | 483       | 194        | 71        | 289      |
+| 2   | Ravenna Rugby FC             | 53    | 14/10/0/4 | 499       | 227        | 75        | 272      |
+| 3   | Rugby Guastalla 2008         | 43    | 14/7/1/6  | 437       | 282        | 68        | 155      |
+| 4   | **Saviors Social Rugby ASD** | 38    | 14/8/0/6  | 370       | 258        | 57        | 112      |
+| 6   | Faenza Rugby                 | 37    | 14/8/0/6  | 366       | 289        | 54        | 77       |
+| 5   | Romagna RFC                  | 33    | 14/6/1/7  | 319       | 300        | 45        | 19       |
+| 7   | Rugby Colorno 1975           | 20    | 14/4/0/10 | 294       | 352        | 46        | -58      |
+| 8   | Giallo Dozza Bologna         | -4    | 14/0/0/14 | 33        | 899        | 5         | -866     |
 
 ## Calendario
 

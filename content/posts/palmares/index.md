@@ -35,3 +35,5 @@ weight: 5
 | 2021/2022                                          | 3° posto                                   |
 | 2022/2023                                          | 1° posto                                   |
 | [2023/2024](/posts/archive/championship/20232024/) | 1° posto                                   |
+| [2024/2025](/posts/archive/championship/20242025/) | 1° posto                                   |
+| [2025/2026](/posts/championship/20252026/)         | 4° posto                                   |

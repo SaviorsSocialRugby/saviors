@@ -1,5 +1,5 @@
 ---
-title: "Ultimo Match:<br/>Colorno vs Saviors Social Rugby (27 - 19)"
+title: "Ultimo Match:<br/>Faenza Rugby vs Saviors Social Rugby (34 - 22)"
 date: "2025-12-08"
 sharingLinks:
   - facebook
@@ -17,8 +17,8 @@ hide: true
 
 ![](./featured.jpg)
 
-| Giornata   | Data       | Orario | Casa               | Ospiti                       | Indirizzo                   |
-| ---------- | ---------- | ------ | ------------------ | ---------------------------- | --------------------------- |
-| 6ᵃ Ritorno | 19/04/2026 | 15:30  | Rugby Colorno 1975 | **Saviors Social Rugby ASD** | Stadio Gino Maini - Colorno |
+| Giornata   | Data       | Orario | Casa         | Ospiti                       | Indirizzo                               |
+| ---------- | ---------- | ------ | ------------ | ---------------------------- | --------------------------------------- |
+| 7ᵃ Ritorno | 03/05/2026 | 15:30  | Faenza Rugby | **Saviors Social Rugby ASD** | Via Viara, Castel San Pietro Terme (BO) |
 
 ![](./team.jpg)

@@ -40,26 +40,32 @@ In conclusione, la storia dei Saviors di Cesena è un racconto di passione e imp
 
 ### Principali Tappe
 
-#### 2007
-
+{{< timeline >}}
+{{< timelineItem icon="shield" header="2007" md=true >}}
 Un folto gruppo di giocatori veterani decide di lasciare il Cesena Rugby e fonda l'**Old Cesena Rugby** per continuare la pratica del gioco come "veterani". La squadra partecipa attivamente ai principali tornei di categoria in Italia e all'estero.
+{{< /timelineItem >}}
 
-#### 2009
-
+{{< timelineItem icon="graduation-cap" header="2009" md=true >}}
 Inizia il progetto dei **Monelli**, dedicato alle categorie del mini rugby.
+{{< /timelineItem >}}
 
-#### 2017
-
+{{< timelineItem icon="location-dot" header="2017" md=true >}}
 Atleti in cerca di gioco e divertimento trovano casa a Mulino 100, con il Campionato UISP pronto ad accoglierli. La squadra senior si colloca fin da subito ai vertici del torneo.
+{{< /timelineItem >}}
 
-#### Stagione 2018/2019
-
+{{< timelineItem icon="star" header="Stagione 2018/2019" md=true >}}
 La squadra senior raggiunge il successo, vincendo il Campionato UISP nella stagione 2018/2019.
+{{< /timelineItem >}}
 
-#### 2021
-
+{{< timelineItem icon="heart" header="2021" md=true >}}
 Si verifica un cambio di nome all'interno della società, dando vita al **Savior Social Rugby ASD**.
+{{< /timelineItem >}}
 
-#### Stagione 2022/2023
-
+{{< timelineItem icon="star" header="Stagione 2022/2023" md=true >}}
 La squadra senior ottiene una nuova vittoria nel Campionato UISP nella stagione 2022/2023, con un risultato ex aequo con il Rugby Rho.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="star" header="Stagione 2024/2025" md=true >}}
+Al primo anno di partecipazione al **Campionato FIR Serie C Regionale**, i Saviors vincono il girone e conquistano il 1° posto.
+{{< /timelineItem >}}
+{{< /timeline >}}

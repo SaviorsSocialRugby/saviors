@@ -135,6 +135,7 @@ showHero = false
 # heroStyle = "thumbAndBackground"   # valid options: basic, big, background, thumbAndBackground
 layoutBackgroundBlur = true        # only used when heroStyle equals background or thumbAndBackground
 layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+featureImageHover = true           # subtle zoom-in on card thumbnails (homepage + list cards)
 showBreadcrumbs = true
 showSummary = false
 showViews = false

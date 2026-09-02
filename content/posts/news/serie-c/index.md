@@ -13,7 +13,6 @@ showDate: false
 showHeadingAnchors: false
 showHero: false
 weight: 4
-hide: true
 ---
 
 Siamo felici di annunciarvi che dalla stagione 2024/2025 partecipiamo al campionato di Serie C FIR Regionale!

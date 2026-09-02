@@ -1,5 +1,6 @@
 ---
 title: Allenamenti Under
+draft: true
 showDate: false
 showHero: false
 tags:
@@ -22,6 +23,6 @@ Via Roversano, 2815, 47521 Cesena FC
 
 ### Contatti
 
-<a href="tel:+393486555868">📞 +39 3486555868</a>
+📞 [+39 348 655 5868](tel:+393486555868)
 <br/>
-info@saviorssocialrugby.it
+✉️ [info@saviorssocialrugby.it](mailto:info@saviorssocialrugby.it)

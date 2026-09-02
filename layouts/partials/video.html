@@ -2,13 +2,57 @@
 <style>
   @media screen and (min-width: 1023px) {
     .video-margin {
-      margin-top: 97vh;
+      /* Header reserves 148px of flow space above the absolutely-positioned,
+         viewport-height video, so subtract it to land flush with its bottom. */
+      margin-top: calc(100vh - 148px);
     }
   }
+  .video-wrapper-lg-absolute {
+    /* Baseline positioning context for the scrim/CTA children on all
+       screen sizes; overridden to absolute (full-bleed) at desktop. */
+    position: relative;
+  }
+
   @media screen and (min-width: 1024px) {
     .video-wrapper-lg-absolute {
       position: absolute;
       width: 100vw;
+    }
+  }
+
+  /* Fades the hero into the page background instead of a hard cut, and
+     keeps the CTAs below readable over any frame of the video. */
+  .hero-scrim {
+    background: linear-gradient(to top, rgba(15, 23, 42, 0.85) 0%, rgba(15, 23, 42, 0.35) 12%, transparent 28%);
+  }
+
+  .hero-cta-primary {
+    background-color: rgb(28, 138, 55);
+  }
+
+  .hero-cta-primary:hover {
+    background-color: rgb(21, 107, 43);
+  }
+
+  .hero-cta-secondary {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+  }
+
+  .hero-cta-secondary:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+
+  /* The video is a short in-flow box on mobile (no lg:absolute full-bleed),
+     so overlaid CTAs just crowd the photo - only show them once there's a
+     tall, full-bleed hero to put them on. */
+  .hero-cta-row {
+    display: none;
+  }
+
+  @media screen and (min-width: 1024px) {
+    .hero-cta-row {
+      display: flex;
     }
   }
 </style>
@@ -16,6 +60,19 @@
     <video class="h-full mx-auto object-cover" autoplay loop muted>
         <source src="{{ .Site.Params.homePageVideo }}" data-src="{{ .Site.Params.homePageVideo }}" type="video/mp4" />
     </video>
+    <div class="absolute inset-0 hero-scrim"></div>
+    <div class="hero-cta-row absolute inset-x-0 bottom-0 justify-center gap-4 pb-6">
+        <a
+            href="{{ "training" | relLangURL }}"
+            class="hero-cta-primary rounded-full px-6 py-3 text-sm font-bold text-white shadow-lg transition-colors">
+            Allenamenti
+        </a>
+        <a
+            href="{{ "contatti" | relLangURL }}"
+            class="hero-cta-secondary rounded-full px-6 py-3 text-sm font-bold text-white backdrop-blur transition-colors">
+            Contatti
+        </a>
+    </div>
 </div>
 <div class="relative video-margin"></div>
 {{ end }}

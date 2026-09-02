@@ -8,7 +8,6 @@ sharingLinks:
 tags:
   - Saviors
   - FIR
-  - A.A. 2025/2026
   - Progetto Savio
   - Rugby Scuole
   - Emilia Romagna

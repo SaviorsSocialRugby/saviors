@@ -2,8 +2,19 @@
     background-position: unset;
 }
 
-h2,
-h1 {
+/* Current-page underline in the nav: brand green instead of the
+   theme's default white, so it reads as an accent, not just emphasis. */
+.active {
+    text-decoration-color: rgb(28, 138, 55);
+}
+
+/* Condensed italic display font for section/page titles only (they use
+   font-extrabold). Card titles in listings are h2 as well but stay in the
+   default font at font-bold - the condensed italic face gets hard to read
+   on longer wrapped titles at smaller sizes. */
+h1.font-extrabold,
+h2.font-extrabold,
+.prose :where(h2, h3) {
     font-family: 'Teko', sans-serif;
     font-style: italic;
 }
@@ -17,4 +28,64 @@ h1 {
 .text-2xl {
     font-size: 1.50rem;
     line-height: 1.75rem;
+}
+
+/* Brand colors: replace the default Blowfish blue with Saviors green so
+   tags, links, badges and focus rings match the crest/hero identity. */
+:root {
+    --color-primary-50: 240, 253, 244;
+    --color-primary-100: 220, 252, 231;
+    --color-primary-200: 187, 247, 208;
+    --color-primary-300: 134, 239, 172;
+    --color-primary-400: 74, 222, 128;
+    --color-primary-500: 34, 197, 94;
+    --color-primary-600: 28, 138, 55;
+    --color-primary-700: 21, 107, 43;
+    --color-primary-800: 17, 83, 33;
+    --color-primary-900: 12, 58, 24;
+}
+
+/* Shared card panel used by the homepage widgets (match results, sponsors)
+   so they read as distinct sections instead of bare rows on the page bg. */
+.savior-card {
+    border-radius: 0.75rem;
+    border: 1px solid rgba(148, 163, 184, 0.15);
+    background: rgba(255, 255, 255, 0.03);
+    padding: 1.5rem;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.savior-card + .savior-card {
+    margin-top: 1rem;
+}
+
+/* Consistent green kicker on section titles - homepage blocks (Sponsors,
+   Ultima Partita, Recenti, ...) and article subheadings alike - so each
+   block reads as a distinct page section. */
+h2.font-extrabold,
+.prose :where(h2, h3) {
+    position: relative;
+    padding-left: 1rem;
+}
+
+h2.font-extrabold::before,
+.prose :where(h2, h3)::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.15em;
+    bottom: 0.35em;
+    width: 4px;
+    border-radius: 2px;
+    background-color: rgb(28, 138, 55);
+}
+
+/* Give article content some color instead of flat white-on-navy: bold
+   emphasis (eg. staff names) in brand green, and green list markers. */
+.prose strong {
+    color: rgb(74, 222, 128);
+}
+
+.prose :where(ul, ol) > li::marker {
+    color: rgb(28, 138, 55);
 }

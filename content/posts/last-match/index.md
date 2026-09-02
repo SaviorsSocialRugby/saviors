@@ -6,7 +6,7 @@ sharingLinks:
   - whatsapp
   - telegram
 tags:
-  - Colorno
+  - Faenza
   - Saviors
 showDate: false
 showHeadingAnchors: false

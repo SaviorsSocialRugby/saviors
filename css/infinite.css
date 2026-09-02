@@ -4,6 +4,8 @@
     overflow: hidden;
     gap: 1rem;
     border-radius: 1rem;
+    -webkit-mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+    mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
 }
 
 .marquee-wrapper .marquee-content {
@@ -11,23 +13,41 @@
     display: flex;
     align-items: center;
     flex-shrink: 0;
-    gap: 1rem;
     cursor: grab;
 }
 
 .marquee-wrapper .marquee-content .card-testimonial {
     max-width: 400px;
+    height: 218px;
     padding: 1rem;
+    margin-inline-end: 1rem;
     border-radius: 1rem;
+    border: 1px solid rgba(148, 163, 184, 0.15);
+    background: rgba(255, 255, 255, 0.03);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+    transition: transform 0.25s ease, border-color 0.25s ease;
+}
+
+.marquee-wrapper .marquee-content .card-testimonial article {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.marquee-wrapper .marquee-content .card-testimonial:hover {
+    transform: translateY(-4px);
+    border-color: rgba(28, 138, 55, 0.5);
 }
 
 .marquee-wrapper .marquee-content .card-testimonial article picture {
     position: relative;
-    min-width: 200px;
+    width: 200px;
 }
 
 .marquee-wrapper .marquee-content .card-testimonial article picture img {
-    width: 100%;
+    width: 200px;
     height: 10rem;
     border-radius: 1rem;
     -o-object-fit: contain;
@@ -52,6 +72,14 @@
     .marquee-wrapper {
         overflow: auto;
     }
+
+    /* Below the drag-to-scroll breakpoint the wrapper becomes a native
+       touch-scrollable container; the CSS transform animation would
+       otherwise keep sliding the track underneath the user's swipe. */
+    .scrollingX {
+        animation: none;
+        transform: none;
+    }
 }
 
 .scrollingX {
@@ -64,19 +92,7 @@
     }
 
     to {
-        transform: translateX(calc(-43%));
-    }
-}
-
-@media (max-width: 1023px) {
-    @keyframes scroll {
-        from {
-            transform: translateX(0);
-        }
-
-        to {
-            transform: translateX(calc(-83%));
-        }
+        transform: translateX(-50%);
     }
 }
 

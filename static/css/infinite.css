@@ -11,23 +11,23 @@
     display: flex;
     align-items: center;
     flex-shrink: 0;
-    gap: 1rem;
     cursor: grab;
 }
 
 .marquee-wrapper .marquee-content .card-testimonial {
     max-width: 400px;
     padding: 1rem;
+    margin-inline-end: 1rem;
     border-radius: 1rem;
 }
 
 .marquee-wrapper .marquee-content .card-testimonial article picture {
     position: relative;
-    min-width: 200px;
+    width: 200px;
 }
 
 .marquee-wrapper .marquee-content .card-testimonial article picture img {
-    width: 100%;
+    width: 200px;
     height: 10rem;
     border-radius: 1rem;
     -o-object-fit: contain;
@@ -52,6 +52,14 @@
     .marquee-wrapper {
         overflow: auto;
     }
+
+    /* Below the drag-to-scroll breakpoint the wrapper becomes a native
+       touch-scrollable container; the CSS transform animation would
+       otherwise keep sliding the track underneath the user's swipe. */
+    .scrollingX {
+        animation: none;
+        transform: none;
+    }
 }
 
 .scrollingX {
@@ -64,19 +72,7 @@
     }
 
     to {
-        transform: translateX(calc(-43%));
-    }
-}
-
-@media (max-width: 1023px) {
-    @keyframes scroll {
-        from {
-            transform: translateX(0);
-        }
-
-        to {
-            transform: translateX(calc(-83%));
-        }
+        transform: translateX(-50%);
     }
 }
 

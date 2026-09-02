@@ -1,0 +1,46 @@
+<h2 class="mt-8 text-2xl font-extrabold mb-10">Sponsors</h2>
+{{ $images := .Site.Params.sponsors }}
+{{ $minCardsPerCopy := 10 }}
+{{ $repeat := 1 }}
+{{ if gt (len $images) 0 }}
+  {{ $repeat = math.Ceil (div (float $minCardsPerCopy) (len $images)) }}
+{{ end }}
+{{/* Card box: picture (200px) + card padding (1rem each side = 32px) + margin-inline-end (1rem = 16px), see infinite.css */}}
+{{ $cardBoxPx := 248 }}
+{{ $speedPxPerSec := 60 }}
+{{ $copyCards := mul $repeat (len $images) }}
+{{ $duration := 15 }}
+{{ if gt $copyCards 0 }}
+  {{ $duration = math.Round (div (float (mul $copyCards $cardBoxPx)) (float $speedPxPerSec)) }}
+{{ end }}
+<link rel="stylesheet" href="css/infinite.css" />
+<script src="js/main.js"></script>
+<div class="marquee-wrapper" style="user-select: none">
+    <div class="marquee-content scrollingX" style="animation-duration: {{ $duration }}s;">
+        {{/* Two identical copies back-to-back so a -50% translateX loops seamlessly.
+             Each copy repeats $images enough times to always be wider than the viewport,
+             otherwise the track runs out before it wraps. */}}
+        {{ range seq 2 }}
+          {{ range seq $repeat }}
+            {{ range $images }}
+            <div class="card-testimonial flex items-center">
+                <article>
+                    <picture>
+                        {{ if .site }}
+                        <a href="{{ .site }}" target="_blank"><img src="{{ .img }}" alt="{{ .img }}" /></a>
+                        {{ else }}
+                        <img src="{{ .img }}" alt="{{ .img }}" />
+                        {{ end }}
+                    </picture>
+                    {{ if .name }}
+                    <article class="short-description">
+                        <p class="text-center mt-1">{{ .name }}</p>
+                    </article>
+                    {{ end }}
+                </article>
+            </div>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+    </div>
+</div>

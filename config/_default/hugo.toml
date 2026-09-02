@@ -2,7 +2,6 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-# theme = "blowfish-saviors"
 baseURL = "https://saviorssocialrugby.it"
 defaultContentLanguage = "it"
 

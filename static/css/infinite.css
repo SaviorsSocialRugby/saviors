@@ -18,7 +18,7 @@
 
 .marquee-wrapper .marquee-content .card-testimonial {
     max-width: 400px;
-    height: 218px;
+    height: 130px;
     padding: 1rem;
     margin-inline-end: 1rem;
     border-radius: 1rem;
@@ -59,7 +59,7 @@
 
 .marquee-wrapper .marquee-content .card-testimonial article picture img {
     width: 200px;
-    height: 10rem;
+    height: 5rem;
     border-radius: 1rem;
     -o-object-fit: contain;
     object-fit: contain;

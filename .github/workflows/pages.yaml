@@ -7,19 +7,25 @@ on:
     paths-ignore:
       - README.md
 
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
         with:
-          submodules: recursive
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.145.0"
+          hugo-version: "0.165.0"
           extended: true
 
       - uses: actions/cache@v6
@@ -30,6 +36,8 @@ jobs:
             ${{ runner.os }}-hugomod-
 
       - name: Build
+        env:
+          HUGO_CACHEDIR: /tmp/hugo_cache_runner
         run: hugo --minify
 
       - name: Deploy

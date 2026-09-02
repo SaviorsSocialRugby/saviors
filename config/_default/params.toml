@@ -46,13 +46,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 # result = "34 - 22"
 # when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 03/05/2026 15:30 @ Stadio Graziola, Faenza"
 
-[last_match]
-home = "Faenza Rugby"
-home_logo = "faenza.png"
-visitors = "Saviors Social Rugby"
-visitors_logo = "saviors.png"
-result = "34 - 22"
-when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 03/05/2026 15:30 @ Stadio Graziola, Faenza"
+# [last_match]
+# home = "Faenza Rugby"
+# home_logo = "faenza.png"
+# visitors = "Saviors Social Rugby"
+# visitors_logo = "saviors.png"
+# result = "34 - 22"
+# when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 03/05/2026 15:30 @ Stadio Graziola, Faenza"
 
 #[[sponsors]]
 #name = "Smart Security"

@@ -27,13 +27,13 @@ weight = 3
 
 [[main]]
 name = "Senior"
-pageRef = "posts/championship/20252026"
+pageRef = "posts/championship/20262027"
 weight = 30
 
 [[main]]
-name = "Campionato 2025/2026"
+name = "Campionato 2026/2027"
 parent = "Senior"
-pageRef = "posts/championship/20252026"
+pageRef = "posts/championship/20262027"
 weight = 11
 
 [[main]]
@@ -43,10 +43,16 @@ pageRef = "training"
 weight = 10
 
 [[main]]
+name = "Campionato 2025/2026"
+parent = "Senior"
+pageRef = "posts/archive/championship/20252026"
+weight = 12
+
+[[main]]
 name = "Campionato 2024/2025"
 parent = "Senior"
 pageRef = "posts/archive/championship/20242025"
-weight = 12
+weight = 13
 
 [[main]]
 name = "Campionato 2023/2024"
@@ -108,12 +114,6 @@ pre = "facebook"
 url = "https://www.facebook.com/saviorssocialrugby"
 weight = 130
 
-[[main]]
-identifier = "whatsapp"
-pre = "whatsapp"
-url = "https://wa.me/+393297956230"
-weight = 140
-
 # [[main]]
 # name = "sub-menu 1"
 # parent = "Under"
@@ -149,10 +149,6 @@ weight = 140
 [[footer]]
 name = " Instagram"
 url = "https://www.instagram.com/saviors_social_rugby"
-
-[[footer]]
-name = " Whatsapp"
-url = "https://wa.me/+393297956230"
 
 [[footer]]
 name = " Facebook"

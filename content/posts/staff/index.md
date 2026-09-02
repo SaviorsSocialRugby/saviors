@@ -30,9 +30,9 @@ weight: 7
 ## Settore Tecnico
 
 - **Raffaello Gardini** - Direttore Tecnico
-- **Davide Valdinoci** - Allenatore Prima Squadra
-- **Manuele Cossu** - Allenatore Attacco e Skills
-- **Andrea Giampreti** - Allenatore Mischia
+- **Emanuele Cossu** - Allenatore Prima Squadra
+<!-- - **Manuele Cossu** - Allenatore Attacco e Skills -->
+- **Andrea Magnani** - Allenatore Mischia
 - **Gianluca Muotri** - Preparatore Atletico
 
 <!-- ## Settore Giovanile

@@ -23,6 +23,6 @@ Via Roversano, 2815, 47521 Cesena FC
 
 ### Contatti
 
-📞 [+39 348 655 5868](tel:+393486555868)
-<br/>
+<!-- 📞 [+39 348 655 5868](tel:+393486555868)
+<br/> -->
 ✉️ [info@saviorssocialrugby.it](mailto:info@saviorssocialrugby.it)

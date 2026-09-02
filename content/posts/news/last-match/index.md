@@ -13,6 +13,7 @@ showHeadingAnchors: false
 showHero: false
 weight: 1
 hide: true
+draft: true
 ---
 
 ![](./featured.jpg)

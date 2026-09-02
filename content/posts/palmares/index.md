@@ -19,10 +19,11 @@ weight: 5
 
 ## Campionato FIR Serie C
 
-| Stagione                                   | Classifica |
-| ------------------------------------------ | ---------- |
-| 2025/2026                                  | TBD        |
-| [2024/2025](/posts/championship/20242025/) | 1° posto   |
+| Stagione                                            | Classifica |
+| ---------------------------------------------------- | ---------- |
+| 2026/2027                                             | TBD        |
+| [2025/2026](/posts/archive/championship/20252026/)    | 4° posto   |
+| [2024/2025](/posts/archive/championship/20242025/)    | 1° posto   |
 
 ## Campionato italiano UISP
 

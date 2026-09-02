@@ -25,18 +25,16 @@
             {{ range $images }}
             <div class="card-testimonial flex items-center">
                 <article>
+                    {{ if .site }}<a href="{{ .site }}" target="_blank" class="sponsor-link">{{ end }}
                     <picture>
-                        {{ if .site }}
-                        <a href="{{ .site }}" target="_blank"><img src="{{ .img }}" alt="{{ .img }}" /></a>
-                        {{ else }}
                         <img src="{{ .img }}" alt="{{ .img }}" />
-                        {{ end }}
                     </picture>
                     {{ if .name }}
                     <article class="short-description">
                         <p class="text-center mt-1">{{ .name }}</p>
                     </article>
                     {{ end }}
+                    {{ if .site }}</a>{{ end }}
                 </article>
             </div>
             {{ end }}

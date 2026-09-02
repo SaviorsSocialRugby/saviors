@@ -21,7 +21,6 @@ image = "images/logo.png"
 # bio = "A little bit about you"
 links = [
   { instagram = "https://www.instagram.com/saviors_social_rugby" },
-  { whatsapp = "https://wa.me/+393297956230" },
   { facebook = "https://www.facebook.com/saviorssocialrugby" },
   { email = "mailto:info@saviorssocialrugby.it" },
 ]

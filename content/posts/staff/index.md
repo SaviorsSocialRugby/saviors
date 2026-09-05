@@ -31,9 +31,9 @@ weight: 7
 
 - **Raffaello Gardini** - Direttore Tecnico
 - **Emanuele Cossu** - Allenatore Prima Squadra
-<!-- - **Manuele Cossu** - Allenatore Attacco e Skills -->
 - **Andrea Magnani** - Allenatore Mischia
-- **Gianluca Muotri** - Preparatore Atletico
+- **Gianluca Muotri** - Preparatore Atletico e Allenatore Trequarti
+<!-- - **Manuele Cossu** - Allenatore Attacco e Skills -->
 
 <!-- ## Settore Giovanile
 

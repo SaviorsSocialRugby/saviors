@@ -33,12 +33,14 @@
     <div class="relative flex flex-col grow">
       <main id="main-content" class="grow">
         {{ if .IsHome }}
-          {{- partial "sponsors.html" . -}}
           {{- partial "next-match.html" . -}}
           {{- partial "last-match.html" . -}}
           <!-- {{- partial "crowdfunding.html" . -}} -->
         {{ end }}
         {{ block "main" . }}{{ end }}
+        {{ if .IsHome }}
+          {{- partial "sponsors.html" . -}}
+        {{ end }}
         {{ if and (site.Params.footer.showScrollToTop | default true) }}
           {{- partial "scroll-to-top.html" . -}}
         {{ end }}

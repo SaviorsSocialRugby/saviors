@@ -8,7 +8,7 @@
     {{ range $images }}
     <div class="card-testimonial flex items-center">
         <article>
-            {{ if .site }}<a href="{{ .site }}" target="_blank" class="sponsor-link">{{ end }}
+            {{ if .site }}<a href="{{ .site }}" target="_blank" class="partner-link">{{ end }}
             <picture>
                 <img src="{{ .img }}" alt="{{ .img }}" />
             </picture>
@@ -41,7 +41,7 @@
             {{ range $images }}
             <div class="card-testimonial flex items-center">
                 <article>
-                    {{ if .site }}<a href="{{ .site }}" target="_blank" class="sponsor-link">{{ end }}
+                    {{ if .site }}<a href="{{ .site }}" target="_blank" class="partner-link">{{ end }}
                     <picture>
                         <img src="{{ .img }}" alt="{{ .img }}" />
                     </picture>

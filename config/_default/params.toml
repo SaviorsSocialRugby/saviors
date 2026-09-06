@@ -57,22 +57,22 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 #[[sponsors]]
 #name = "Smart Security"
-#img = "sponsors/smartsecurity.jpg"
+#img = "partners/smartsecurity.jpg"
 #site = "https://www.smartsecurity.srl"
 
 [[sponsors]]
 name = "BCC Romagnolo"
-img = "sponsors/bcc.png"
+img = "partners/bcc.png"
 site = "https://www.bccromagnolo.it"
 
 # [[sponsors]]
 # name = "Legni per api"
 # site = "https://www.legniperapi.it"
-# img = "sponsors/legniperapi.png"
+# img = "partners/legniperapi.png"
 
 # [[sponsors]]
 # name = "Miele Ligustica"
-# img = "sponsors/valdomiele.png"
+# img = "partners/valdomiele.png"
 
 [header]
 # valid options: basic, fixed, fixed-fill, fixed-fill-blur

@@ -27,7 +27,7 @@
    entirely, so these rules need to apply on their own merits. */
 .card-testimonial {
     max-width: 320px;
-    height: 108px;
+    min-height: 108px;
     padding: 0.75rem 1rem;
     margin-inline-end: 1rem;
     border-radius: 1rem;

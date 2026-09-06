@@ -43,8 +43,9 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 # home_logo = "faenza.png"
 # visitors = "Saviors Social Rugby"
 # visitors_logo = "saviors.png"
-# result = "34 - 22"
-# when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 03/05/2026 15:30 @ Stadio Graziola, Faenza"
+# kickoff = "2026-05-03T15:30:00+02:00" # ISO 8601, drives the live countdown; omit to show "VS" instead
+# competition = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026"
+# venue = "Stadio Graziola, Faenza"
 
 # [last_match]
 # home = "Faenza Rugby"
@@ -72,9 +73,6 @@ site = "https://www.bccromagnolo.it"
 # [[sponsors]]
 # name = "Miele Ligustica"
 # img = "sponsors/valdomiele.png"
-
-[[sponsors]]
-img = "sponsors/placeholder.png"
 
 [header]
 # valid options: basic, fixed, fixed-fill, fixed-fill-blur

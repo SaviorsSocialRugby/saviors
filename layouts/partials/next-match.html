@@ -16,7 +16,28 @@
       </div>
 
       <div class="h-full text-center flex-1 flex-grow">
-          <h1 class="text-2xl not-italic font-extrabold" style="color: #95c11f">{{ $match.result }}</h1>
+          {{ with $match.kickoff }}
+          <div class="match-countdown" data-kickoff="{{ . }}">
+              <div class="match-countdown__unit">
+                  <span class="match-countdown__value" data-unit="days">&ndash;</span>
+                  <span class="match-countdown__label">giorni</span>
+              </div>
+              <div class="match-countdown__unit">
+                  <span class="match-countdown__value" data-unit="hours">&ndash;</span>
+                  <span class="match-countdown__label">ore</span>
+              </div>
+              <div class="match-countdown__unit">
+                  <span class="match-countdown__value" data-unit="minutes">&ndash;</span>
+                  <span class="match-countdown__label">min</span>
+              </div>
+              <div class="match-countdown__unit">
+                  <span class="match-countdown__value" data-unit="seconds">&ndash;</span>
+                  <span class="match-countdown__label">sec</span>
+              </div>
+          </div>
+          {{ else }}
+          <h1 class="text-2xl not-italic font-extrabold" style="color: #95c11f">VS</h1>
+          {{ end }}
       </div>
 
       <div class="h-full text-center flex-1 flex-grow p-6">
@@ -33,7 +54,11 @@
   </section>
   <div style="background-color: #1c8a37" class="h-[2px] mt-4 mb-2"></div>
   <div class="flex items-center justify-center">
-      <p class="text-sm h-full text-center">{{ $match.when_where }}</p>
+      {{/* Date/time comes from kickoff, not a separately-typed string, so it can't drift out of sync with the countdown above. */}}
+      <p class="text-sm h-full text-center">{{ $match.competition }}{{ with $match.kickoff }} - {{ dateFormat "02/01/2006 15:04" . }}{{ end }} @ {{ $match.venue }}</p>
   </div>
 </div>
+{{ with $match.kickoff }}
+<script src="{{ "js/match-countdown.js" | relURL }}" defer></script>
+{{ end }}
 {{end}}

@@ -113,3 +113,35 @@ h2.font-extrabold::before,
 .prose :where(ul, ol) > li::marker {
     color: rgb(28, 138, 55);
 }
+
+/* Countdown to kickoff shown in place of a score on the "next match" card
+   (there's no result yet, so a VS/score treatment doesn't apply). */
+.match-countdown {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.match-countdown__unit {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.match-countdown__value {
+    font-family: 'Teko', sans-serif;
+    font-style: italic;
+    font-size: 1.75rem;
+    font-weight: 800;
+    line-height: 1;
+    color: rgb(28, 138, 55);
+}
+
+.match-countdown__label {
+    margin-top: 0.15rem;
+    font-size: 0.6875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: rgba(148, 163, 184, 0.8);
+}

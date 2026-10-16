@@ -38,14 +38,14 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
-# [next_match]
-# home = "Faenza Rugby"
-# home_logo = "faenza.png"
-# visitors = "Saviors Social Rugby"
-# visitors_logo = "saviors.png"
-# kickoff = "2026-05-03T15:30:00+02:00" # ISO 8601, drives the live countdown; omit to show "VS" instead
-# competition = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026"
-# venue = "Stadio Graziola, Faenza"
+[next_match]
+home = "Romagna RFC"
+home_logo = "romagna.png"
+visitors = "Saviors Social Rugby"
+visitors_logo = "saviors.png"
+kickoff = "2026-10-18T15:30:00+02:00" # ISO 8601, drives the live countdown; omit to show "VS" instead
+competition = "1ᵃ partita Autumn Cup (Trofeo Foglia 150cc)"
+venue = "Campo Rugby Rivabella"
 
 # [last_match]
 # home = "Faenza Rugby"

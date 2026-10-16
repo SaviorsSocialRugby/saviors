@@ -1,20 +1,22 @@
 ---
-title: "Prossimo Match:<br/>Faenza Rugby vs Saviors Social Rugby"
-date: "2025-12-08"
+title: "Prossimo Match:<br/>Romagna RFC vs Saviors Social Rugby"
+date: "2026-10-16"
 sharingLinks:
   - facebook
   - whatsapp
   - telegram
 tags:
   - Saviors
-  - Faenza
+  - Romagna
 showDate: false
 showHeadingAnchors: false
 showHero: false
 weight: 1
-draft: true
+draft: false
 ---
 
-| Giornata   | Data       | Orario | Casa         | Ospiti                       | Indirizzo                               |
-| ---------- | ---------- | ------ | ------------ | ---------------------------- | --------------------------------------- |
-| 7ᵃ Ritorno | 03/05/2026 | 15:30  | Faenza Rugby | **Saviors Social Rugby ASD** | Via Viara, Castel San Pietro Terme (BO) |
+![Romagna RFC vs Saviors Social Rugby — 1ᵃ partita Autumn Cup (Trofeo Foglia 150cc), domenica 18 ottobre alle 15:30 al Campo Rugby Rivabella](./featured.jpg)
+
+| Giornata                                  | Data       | Orario | Casa        | Ospiti                      | Campo                  |
+| ----------------------------------------- | ---------- | ------ | ----------- | --------------------------- | ---------------------- |
+| 1ᵃ partita Autumn Cup (Trofeo Foglia 150cc) | 18/10/2026 | 15:30  | Romagna RFC | **Saviors Social Rugby ASD** | Campo Rugby Rivabella |

@@ -39,21 +39,21 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [next_match]
+home = "Giallo Dozza Bologna"
+home_logo = "dozza.png"
+visitors = "Saviors Social Rugby"
+visitors_logo = "saviors.png"
+kickoff = "2026-10-31T14:30:00+01:00"
+competition = "2ᵃ partita Autumn Cup"
+venue = "Casa circondariale “Rocco D’Amato” (Dozza), Via del Gomito 2, 40127 Bologna (BO)"
+
+[last_match]
 home = "Romagna RFC"
 home_logo = "romagna.png"
 visitors = "Saviors Social Rugby"
 visitors_logo = "saviors.png"
-kickoff = "2026-10-18T15:30:00+02:00" # ISO 8601, drives the live countdown; omit to show "VS" instead
-competition = "1ᵃ partita Autumn Cup (Trofeo Foglia 150cc)"
-venue = "Campo Rugby Rivabella"
-
-# [last_match]
-# home = "Faenza Rugby"
-# home_logo = "faenza.png"
-# visitors = "Saviors Social Rugby"
-# visitors_logo = "saviors.png"
-# result = "34 - 22"
-# when_where = "7ᵃ Ritorno Campionato FIR Serie C Regionale 2025/2026 - 03/05/2026 15:30 @ Stadio Graziola, Faenza"
+result = "38 - 24"
+when_where = "1ᵃ partita Autumn Cup (Trofeo Foglia 150cc) - 18/10/2026 15:30 @ Campo Rugby Rivabella"
 
 #[[sponsors]]
 #name = "Smart Security"

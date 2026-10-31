@@ -55,7 +55,7 @@
   <div style="background-color: #1c8a37" class="h-[2px] mt-4 mb-2"></div>
   <div class="flex items-center justify-center">
       {{/* Date/time comes from kickoff, not a separately-typed string, so it can't drift out of sync with the countdown above. */}}
-      <p class="text-sm h-full text-center">{{ $match.competition }}{{ with $match.kickoff }} - {{ dateFormat "02/01/2006 15:04" . }}{{ end }} @ {{ $match.venue }}</p>
+      <p class="text-sm h-full text-center">{{ with $match.competition }}{{ . }}{{ end }}{{ with $match.kickoff }}{{ if $match.competition }} - {{ end }}{{ dateFormat "02/01/2006 15:04" . }}{{ end }}{{ with $match.venue }}{{ if or $match.competition $match.kickoff }} @ {{ end }}{{ . }}{{ end }}</p>
   </div>
 </div>
 {{ with $match.kickoff }}

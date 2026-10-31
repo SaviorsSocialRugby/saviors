@@ -1,5 +1,5 @@
 ---
-title: "Prossimo Match:<br/>Giallo Dozza Bologna vs Saviors Social Rugby"
+title: "Prossimo Match: Giallo Dozza vs Saviors"
 date: "2026-10-31"
 sharingLinks:
   - facebook
@@ -20,6 +20,6 @@ draft: false
 
 **Giallo Dozza Bologna vs Saviors Social Rugby ASD**
 
-| Data | Orario | Campo |
-| ---- | ------ | ----- |
-| 31/10/2026 | 14:30 | Casa circondariale “Rocco D’Amato” (Dozza), Via del Gomito 2, 40127 Bologna (BO) |
+| Data       | Orario | Campo                                                                            |
+| ---------- | ------ | -------------------------------------------------------------------------------- |
+| 31/10/2026 | 14:30  | Casa circondariale “Rocco D’Amato” (Dozza), Via del Gomito 2, 40127 Bologna (BO) |

@@ -11,12 +11,10 @@ tags:
 showDate: false
 showHeadingAnchors: false
 showHero: false
-featureimage: featured.jpg
+hideFeatureImage: true
 weight: 1
 draft: false
 ---
-
-![Giallo Dozza Bologna vs Saviors Social Rugby — 31 ottobre 2026](./featured.jpg)
 
 **Giallo Dozza Bologna 5 - 54 Saviors Social Rugby ASD**
 

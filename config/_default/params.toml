@@ -39,21 +39,18 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [next_match]
+home = "Saviors Social Rugby"
+home_logo = "saviors.png"
+visitors = "Highlanders Formigine Rugby"
+kickoff = "2026-11-22T14:30:00+01:00"
+
+[last_match]
 home = "Giallo Dozza Bologna"
 home_logo = "dozza.png"
 visitors = "Saviors Social Rugby"
 visitors_logo = "saviors.png"
-kickoff = "2026-10-31T14:30:00+01:00"
-competition = "2ᵃ partita Autumn Cup"
-venue = "Casa circondariale “Rocco D’Amato” (Dozza), Via del Gomito 2, 40127 Bologna (BO)"
-
-[last_match]
-home = "Romagna RFC"
-home_logo = "romagna.png"
-visitors = "Saviors Social Rugby"
-visitors_logo = "saviors.png"
-result = "38 - 24"
-when_where = "1ᵃ partita Autumn Cup (Trofeo Foglia 150cc) - 18/10/2026 15:30 @ Campo Rugby Rivabella"
+result = "5 - 54"
+when_where = "2ᵃ partita Autumn Cup - 31/10/2026 14:30 @ Casa circondariale “Rocco D’Amato” (Dozza), Via del Gomito 2, 40127 Bologna (BO)"
 
 #[[sponsors]]
 #name = "Smart Security"

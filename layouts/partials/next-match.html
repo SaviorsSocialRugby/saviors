@@ -48,9 +48,11 @@
                   {{ end }}
       </div>
 
+      {{ with $match.visitors_logo }}
       <div class="h-full text-center flex flex-1 flex-grow justify-center">
-          <img src="./teams/{{ $match.visitors_logo }}" alt="" class="h-16 w-16 object-contain" />
+          <img src="./teams/{{ . }}" alt="" class="h-16 w-16 object-contain" />
       </div>
+      {{ end }}
   </section>
   <div style="background-color: #1c8a37" class="h-[2px] mt-4 mb-2"></div>
   <div class="flex items-center justify-center">

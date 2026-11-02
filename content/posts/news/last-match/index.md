@@ -1,13 +1,13 @@
 ---
-title: "Ultimo Match: Romagna RFC 38 - 24 Saviors"
-date: "2026-10-16"
+title: "Ultimo Match: Giallo Dozza 5 - 54 Saviors"
+date: "2026-10-31"
 sharingLinks:
   - facebook
   - whatsapp
   - telegram
 tags:
   - Saviors
-  - Romagna
+  - Dozza
 showDate: false
 showHeadingAnchors: false
 showHero: false
@@ -16,8 +16,10 @@ weight: 1
 draft: false
 ---
 
-![Risultato finale: Romagna RFC 38 - 24 Saviors Social Rugby — 1ᵃ partita Autumn Cup](./featured.jpg)
+![Giallo Dozza Bologna vs Saviors Social Rugby — 31 ottobre 2026](./featured.jpg)
 
-| Giornata                                    | Data       | Orario | Casa        | Ospiti                       | Campo                 | Risultato   |
-| ------------------------------------------- | ---------- | ------ | ----------- | ---------------------------- | --------------------- | ----------- |
-| 1ᵃ partita Autumn Cup (Trofeo Foglia 150cc) | 18/10/2026 | 15:30  | Romagna RFC | **Saviors Social Rugby ASD** | Campo Rugby Rivabella | **38 - 24** |
+**Giallo Dozza Bologna 5 - 54 Saviors Social Rugby ASD**
+
+| Giornata              | Data       | Orario | Casa                | Ospiti                       | Campo                                                                            | Risultato  |
+| --------------------- | ---------- | ------ | ------------------- | ---------------------------- | -------------------------------------------------------------------------------- | ---------- |
+| 2ᵃ partita Autumn Cup | 31/10/2026 | 14:30  | Giallo Dozza Bologna | **Saviors Social Rugby ASD** | Casa circondariale “Rocco D’Amato” (Dozza), Via del Gomito 2, 40127 Bologna (BO) | **5 - 54** |

@@ -42,6 +42,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 home = "Saviors Social Rugby"
 home_logo = "saviors.png"
 visitors = "Highlanders Formigine Rugby"
+visitors_logo = "highlanders.png"
 kickoff = "2026-11-22T14:30:00+01:00"
 
 [last_match]
